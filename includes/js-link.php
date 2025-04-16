@@ -1,0 +1,9 @@
+<script src="assets/js/jquery-3.6.0.min.js"></script>
+<script src="assets/js/animations.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/jquery-3.6.0.min.js"></script>
+<script src="assets/js/popper.min.js"></script>
+<script src="assets/js/custom-script.js"></script>
+<script src="assets/js/owl.carousel.js"></script>
+<script src="assets/js/aos.js"></script>
+<script src="assets/js/text-animations.js"></script>
