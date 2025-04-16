@@ -7,7 +7,7 @@
 </head>
 <body>
   <!-- HEADER-SECTION -->
-  <?php include 'includes/css-links.php'; ?>
+  <?php include 'includes/header.php'; ?>
 <!-- MAP-Section -->
 <div class="map-section overflow-hidden">
 <div class="container">
@@ -20,7 +20,7 @@
 </div>
     <!-- Footer-Section -->
     <?php include 'includes/footer.php'; ?>
-    <?php include 'includes/js-links.php'; ?>
+    <?php include 'includes/js-link.php'; ?>
 
 </body>
 
