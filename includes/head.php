@@ -21,6 +21,7 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
 <link rel="stylesheet" href="assets/css/style.css" />
+<link rel="stylesheet" href="assets/css/post.css" />
 <link rel="stylesheet" href="assets/css/mobile.css" />
 <!-- <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css"
 integrity="sha512-q3eWabyZPc1XTCmF+8/LuE1ozpg5xxn7iO89yfSOd5/oKvyqLngoNGsx8jq92Y8eXJ/IRxQbEC+FGSYxtk2oiw=="

@@ -2,9 +2,330 @@
 <html lang="zxx">
 
 <head>
-<?php include 'includes/head.php'; ?>
+  <?php include 'includes/head.php'; ?>
+  <style>
+    body {
+      background-color: #1a1a1a;
+      color: #fff;
+      font-family: Arial, sans-serif;
+    }
 
+    /* Three-Column Blog Layout */
+    .blog-posts {
+      padding: 40px 0;
+      overflow: hidden;
+    }
+
+    #blog.three-column {
+      margin-bottom: 30px;
+    }
+
+    .post-item {
+      background: #252525;
+      border: 1px solid #333;
+      border-radius: 5px;
+      overflow: hidden;
+      transition: box-shadow 0.3s ease;
+    }
+
+    .post-item:hover {
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    }
+
+    .post-item-wrap {
+      position: relative;
+    }
+
+    .post-image img,
+    .post-audio img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    .post-meta-category {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      background: #ff4500;
+      color: #fff;
+      padding: 5px 10px;
+      border-radius: 3px;
+      font-size: 12px;
+    }
+
+    .post-item-description {
+      padding: 20px;
+    }
+
+    .post-meta-date,
+    .post-meta-comments {
+      color: #999;
+      font-size: 12px;
+      margin-right: 10px;
+    }
+
+    .post-meta-comments a {
+      color: #ff4500;
+      text-decoration: none;
+    }
+
+    .post-item-description h2 {
+      font-size: 18px;
+      margin: 10px 0;
+    }
+
+    .post-item-description h2 a {
+      color: #fff;
+      text-decoration: none;
+    }
+
+    .post-item-description h2 a:hover {
+      color: #ff4500;
+    }
+
+    .post-item-description p {
+      color: #ccc;
+      font-size: 14px;
+      margin-bottom: 15px;
+    }
+
+    .item-link {
+      color: #ff4500;
+      font-size: 14px;
+      text-decoration: none;
+    }
+
+    .item-link:hover {
+      text-decoration: underline;
+    }
+
+    .item-link i {
+      margin-left: 5px;
+    }
+
+    /* Carousel Styling */
+    #blogslider.carousel {
+      width: 100%;
+    }
+
+    #blogslider .carousel-inner {
+      position: relative;
+    }
+
+    #blogslider .carousel-item img {
+      width: 100%;
+      height: auto;
+    }
+
+    #blogslider .carousel-control-prev,
+    #blogslider .carousel-control-next {
+      opacity: 0.7;
+    }
+
+    #blogslider .carousel-control-prev:hover,
+    #blogslider .carousel-control-next:hover {
+      opacity: 1;
+    }
+
+    /* Audio Styling */
+    .post-audio {
+      position: relative;
+    }
+
+    .post-audio audio {
+      position: absolute;
+      bottom: 10px;
+      left: 10px;
+      width: 80%;
+      background: #333;
+      border: none;
+    }
+
+    /* Video Embed Styling */
+    .embed-container {
+      position: relative;
+      padding-bottom: 56.25%;
+      height: 0;
+      overflow: hidden;
+      max-width: 100%;
+    }
+
+    .embed-container iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    .fluid-width-video-wrapper {
+      position: relative;
+      padding-bottom: 56.25%;
+      height: 0;
+      overflow: hidden;
+    }
+
+    .fluid-width-video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    /* Sidebar Styling */
+    .sticky-sidebar {
+      position: sticky;
+      top: 20px;
+      align-self: flex-start;
+    }
+
+    .theiaStickySidebar {
+      height: 100%;
+    }
+
+    .widget {
+      background: #252525;
+      padding: 20px;
+      margin-bottom: 20px;
+      border: 1px solid #333;
+      border-radius: 5px;
+    }
+
+    .widget-title {
+      font-size: 18px;
+      margin-bottom: 15px;
+      color: #ff4500;
+      font-weight: 600;
+    }
+
+    .widget-newsletter .form-control {
+      background: #333;
+      border: 1px solid #444;
+      color: #fff;
+      width: 100%;
+      margin-bottom: 10px;
+    }
+
+    .widget-newsletter .btn {
+      background: #ff4500;
+      border: none;
+      color: #fff;
+      width: 100%;
+    }
+
+    .widget-categories ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    .widget-categories li {
+      margin-bottom: 10px;
+    }
+
+    .widget-categories a {
+      color: #fff;
+      text-decoration: none;
+    }
+
+    .widget-categories .cat-count-span {
+      color: #999;
+      float: right;
+    }
+
+    .widget-tweeter ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    .widget-tweeter li {
+      margin-bottom: 15px;
+    }
+
+    .widget-tweeter a {
+      color: #ff4500;
+      text-decoration: none;
+    }
+
+    .widget-tweeter small {
+      color: #999;
+      display: block;
+    }
+
+    .tags a {
+      display: inline-block;
+      padding: 5px 10px;
+      margin: 0 5px 5px 0;
+      background: #333;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 3px;
+    }
+
+    #tabs-posts .nav-link {
+      color: #fff;
+      background: #333;
+      border: none;
+      margin-right: 5px;
+      padding: 10px;
+      border-radius: 3px 3px 0 0;
+    }
+
+    #tabs-posts .nav-link.active {
+      background: #ff4500;
+      color: #fff;
+    }
+
+    .post-thumbnail-entry {
+      margin-bottom: 15px;
+    }
+
+    .post-thumbnail-entry img {
+      width: 100%;
+      height: auto;
+    }
+
+    .post-thumbnail-content a {
+      color: #fff;
+      text-decoration: none;
+    }
+
+    .post-thumbnail-content span {
+      color: #999;
+      font-size: 12px;
+    }
+
+    /* Responsive Styles */
+    @media (max-width: 991px) {
+      .col-xl-4 {
+        flex: 0 0 50%;
+        max-width: 50%;
+      }
+
+      .sticky-sidebar {
+        position: relative;
+        top: 0;
+      }
+    }
+
+    @media (max-width: 767px) {
+      .col-xl-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+      }
+
+      .post-item-description {
+        padding: 15px;
+      }
+
+      .post-audio audio {
+        width: 90%;
+      }
+    }
+  </style>
 </head>
+
 <body>
   <!-- HEADER-SECTION -->
   <?php include 'includes/header.php'; ?>
@@ -39,7 +360,7 @@
                       Curabitur pulvinar euismod ante, ac sagittis ante
                       posuere ac. Vivamus luctus commodo dolor porta feugiat.
                     </p>
-                    <a href="single-post.html" class="item-link text-decoration-none">Read More <i
+                    <a href="blog-details.php" class="item-link text-decoration-none">Read More <i
                         class="fa fa-arrow-right"></i></a>
                     <!--post-item-description-->
                   </div>
@@ -88,7 +409,7 @@
                       Curabitur pulvinar euismod ante, ac sagittis ante
                       posuere ac. Vivamus luctus commodo dolor porta feugiat.
                     </p>
-                    <a href="single-post.html" class="item-link text-decoration-none">Read More <i
+                    <a href="blog-details.php" class="item-link text-decoration-none">Read More <i
                         class="fa fa-arrow-right"></i></a>
                     <!--post-item-description-->
                   </div>
@@ -122,7 +443,7 @@
                       Curabitur pulvinar euismod ante, ac sagittis ante
                       posuere ac. Vivamus luctus commodo dolor porta feugiat.
                     </p>
-                    <a href="single-post.html" class="item-link text-decoration-none">Read More <i
+                    <a href="blog-details.php" class="item-link text-decoration-none">Read More <i
                         class="fa fa-arrow-right"></i></a>
                     <!--post-item-description-->
                   </div>
@@ -160,7 +481,7 @@
                       Curabitur pulvinar euismod ante, ac sagittis ante
                       posuere ac. Vivamus luctus commodo dolor porta feugiat.
                     </p>
-                    <a href="single-post.html" class="item-link text-decoration-none">Read More <i
+                    <a href="blog-details.php" class="item-link text-decoration-none">Read More <i
                         class="fa fa-arrow-right"></i></a>
                     <!--post-item-description-->
                   </div>
@@ -190,7 +511,7 @@
                       Curabitur pulvinar euismod ante, ac sagittis ante
                       posuere ac. Vivamus luctus commodo dolor porta feugiat.
                     </p>
-                    <a href="single-post.html" class="item-link text-decoration-none">Read More <i
+                    <a href="blog-details.php" class="item-link text-decoration-none">Read More <i
                         class="fa fa-arrow-right"></i></a>
                     <!--post-item-description-->
                   </div>
@@ -220,7 +541,7 @@
                       Curabitur pulvinar euismod ante, ac sagittis ante
                       posuere ac. Vivamus luctus commodo dolor porta feugiat.
                     </p>
-                    <a href="single-post.html" class="item-link text-decoration-none">Read More <i
+                    <a href="blog-details.php" class="item-link text-decoration-none">Read More <i
                         class="fa fa-arrow-right"></i></a>
                     <!--post-item-description-->
                   </div>
@@ -239,8 +560,9 @@
     </div>
     <!--container-->
   </section>
-     <!-- Footer-Section -->
-    <?php include('includes/footer.php'); ?>
-    <?php include('includes/js-link.php'); ?>
+  <!-- Footer-Section -->
+  <?php include('includes/footer.php'); ?>
+  <?php include('includes/js-link.php'); ?>
 </body>
+
 </html>

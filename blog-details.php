@@ -3,14 +3,15 @@
 
 
 <head>
-  <?php include 'includes/head.php'; ?>  
+  <?php include 'includes/head.php'; ?>
 </head>
+
 <body>
   <!-- HEADER-SECTION -->
   <?php include 'includes/header.php'; ?>
   <!-- header and banner section -->
   <section class="blog-posts padding-top padding-bottom overflow single-post-blog overflow-hidden">
-    <div class="container"> 
+    <div class="container">
       <div class="row">
         <div class="col-xl-9 col-lg-9">
           <div id="blog" class="single-post01 wow slideInLeft" data-aos="fade-up">

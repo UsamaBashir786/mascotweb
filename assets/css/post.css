@@ -1,0 +1,279 @@
+body {
+  background-color: #1a1a1a;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+.sticky-sidebar {
+  position: sticky;
+  top: 20px;
+  align-self: flex-start;
+}
+
+.theiaStickySidebar {
+  height: 100%;
+}
+
+.post-image img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.post-item-description {
+  padding: 20px;
+}
+
+.post-item-description h2 {
+  margin-bottom: 10px;
+  color: #ff4500; /* Matches the accent color from the image */
+}
+
+.post-meta {
+  margin-bottom: 15px;
+}
+
+.post-meta span {
+  color: #ff4500;
+  margin-right: 10px;
+}
+
+.blockquote {
+  border-left: 4px solid #ff4500;
+  padding-left: 15px;
+  margin: 20px 0;
+  color: #ccc;
+}
+
+.blockquote small {
+  color: #999;
+}
+
+.post-tags a {
+  display: inline-block;
+  padding: 5px 10px;
+  margin: 0 5px 5px 0;
+  background: #333;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Comments Section */
+.comments {
+  margin-top: 40px;
+  border-top: 1px solid #333; /* Consistent border color */
+  padding-top: 40px;
+}
+
+.comment_number {
+  font-size: 18px;
+  margin-bottom: 30px;
+  color: #ff4500;
+  font-weight: 600;
+}
+
+.comment {
+  margin-bottom: 25px;
+  padding-bottom: 25px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.comment:last-child {
+  border-bottom: none;
+}
+
+.comment .image {
+  float: left;
+  width: 60px;
+  height: 60px;
+  margin-right: 20px;
+}
+
+.comment .image img {
+  border-radius: 50%;
+  width: 100%;
+  height: auto;
+}
+
+.comment .text {
+  margin-left: 80px;
+}
+
+.comments-name {
+  font-size: 16px;
+  color: #ff4500;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.comment_date {
+  font-size: 12px;
+  color: #888;
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.comment-reply-link {
+  font-size: 12px;
+  color: #ff4500;
+  text-decoration: none;
+}
+
+.comment-reply-link:hover {
+  text-decoration: underline;
+}
+
+.comments-p {
+  color: #ccc; /* Matches text color for consistency */
+  font-size: 14px;
+  line-height: 24px;
+  margin: 10px 0;
+}
+
+/* Nested Comments */
+.comment .comment {
+  margin-left: 80px;
+  margin-top: 25px;
+  padding-top: 25px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+/* Widgets */
+.widget {
+  background: #252525;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #333;
+}
+
+.widget-title {
+  font-size: 18px;
+  margin-bottom: 15px;
+  color: #ff4500;
+}
+
+.widget-newsletter .form-control {
+  background: #333;
+  border: 1px solid #444;
+  color: #fff;
+}
+
+.widget-newsletter .btn {
+  background: #ff4500;
+  border: none;
+  color: #fff;
+}
+
+.widget-categories ul {
+  list-style: none;
+  padding: 0;
+}
+
+.widget-categories li {
+  margin-bottom: 10px;
+}
+
+.widget-categories a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.widget-categories .cat-count-span {
+  color: #999;
+}
+
+.widget-tweeter ul {
+  list-style: none;
+  padding: 0;
+}
+
+.widget-tweeter li {
+  margin-bottom: 15px;
+}
+
+.widget-tweeter a {
+  color: #ff4500;
+  text-decoration: none;
+}
+
+.widget-tweeter small {
+  color: #999;
+}
+
+.tags a {
+  display: inline-block;
+  padding: 5px 10px;
+  margin: 0 5px 5px 0;
+  background: #333;
+  color: #fff;
+  text-decoration: none;
+}
+
+#tabs-posts .nav-link {
+  color: #fff;
+  background: #333;
+  border: none;
+  margin-right: 5px;
+}
+
+#tabs-posts .nav-link.active {
+  background: #ff4500;
+  color: #fff;
+}
+
+.post-thumbnail-entry {
+  margin-bottom: 15px;
+}
+
+.post-thumbnail-entry img {
+  width: 100%;
+  height: auto;
+}
+
+.post-thumbnail-content a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.post-thumbnail-content span {
+  color: #999;
+  font-size: 12px;
+}
+
+/* Responsive Styles */
+@media (max-width: 991px) {
+  .comment .comment {
+    margin-left: 60px;
+  }
+}
+
+@media (max-width: 767px) {
+  .comment .image {
+    width: 50px;
+    height: 50px;
+  }
+  .comment .text {
+    margin-left: 65px;
+  }
+  .comment .comment {
+    margin-left: 30px;
+  }
+  .blockquote {
+    padding: 10px 15px;
+  }
+}
+
+@media (max-width: 575px) {
+  .comment .image {
+    width: 40px;
+    height: 40px;
+  }
+  .comment .text {
+    margin-left: 55px;
+  }
+  .comment .comment {
+    margin-left: 20px;
+  }
+}

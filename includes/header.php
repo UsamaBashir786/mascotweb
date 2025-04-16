@@ -33,20 +33,7 @@
                 </div>
               </li>
               <li class="nav-item dropdown redlight-dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Blogs</a>
-                <div class="dropdown-menu dropdown-content-redlight blogs-section-drop-down">
-                  <ul class="list-unstyled">
-                    <li class="nav-item"> <a class="dropdown-item fierce-menu nav-link" href="single-post.php">Single Post</a></li>
-                    <li class="nav-item"> <a class="dropdown-item fierce-menu nav-link" href="infinite-scroll.php">Infinite Scroll</a></li>
-                    <li class="nav-item"> <a class="dropdown-item fierce-menu nav-link" href="load-more.php">Load More</a></li>
-                    <li class="nav-item"> <a class="dropdown-item fierce-menu nav-link" href="one-column.php">One Column</a></li>
-                    <li class="nav-item"> <a class="dropdown-item fierce-menu nav-link" href="two-column.php">Two Column</a></li>
-                    <li class="nav-item"><a class="dropdown-item fierce-menu nav-link" href="three-column.php">Three Column</a></li>
-                    <li class="nav-item"> <a class="dropdown-item fierce-menu nav-link" href="three-colum-sidbar.php">Three Column Slider</a></li>
-                    <li class="nav-item"> <a class="dropdown-item fierce-menu nav-link" href="four-column.php">Four Column</a></li>
-                    <li class="nav-item"><a class="dropdown-item fierce-menu nav-link" href="six-colum-full-wide.php">Six Column</a></li>
-                  </ul>
-                </div>
+                <a class="nav-link" href="blogs.php">Blogs</a>
               </li>
               <li class="nav-item navbar-text-color"><a class="nav-link text-decoration-none contact-us-margin navbar-text-color" href="pricing.php">Pricing</a></li>
             </ul>
@@ -124,7 +111,6 @@
                     montes nasc.</p>
                   <p class="date-p">August 11, 2021</p>
                 </div>
-
               </div>
             </div>
           </div>
