@@ -13,7 +13,10 @@
     /* White text */
     border: none;
     border-radius: 50%;
-    padding: 15px;
+    padding-top: 15px;
+    padding-left: 23px;
+    padding-right: 23px;
+    padding-bottom: 15px;
     font-size: 18px;
     cursor: pointer;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);

@@ -1,7 +1,7 @@
+<!-- Scroll Top -->
 <?php include 'includes/scrollTop.php'; ?>
 
-
-
+<!-- Footer -->
 <div class="footer-section">
   <div class="about-right-icon">
     <figure class="footer-icon"><img src="assets/images/footer-left.png" alt="" class="img-fluid">
