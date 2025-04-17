@@ -14,14 +14,14 @@
           <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-12 mb-md-0 mb-4 text-md-left text-center">
               <div class="home-banner-text" data-aos="fade-up">
-                <h5 class="text-white artificial-text">Cyber Security Solutions for</h5>
-                <h1 class="text-white"> Organizations with Critical Infrastructure
-                </h1>
+                <h5 class="text-white artificial-text">Professional Security Services for</h5>
+                <h1 class="text-white">We Don't Watch. We Anticipate</h1>
                 <p class="text-white banner-paragraph">
-                  Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusm tempor
-                  incididunt ut labore et dolore magna aliqua.</p>
+                  At Mascot Security we provide professional security services tailored to various industries 
+                  and environments. From hospitality venues and corporate events to construction sites and 
+                  private properties, our expert team ensures safety, protection, and peace of mind.</p>
                 <div class="banner-btn discover-btn-banner">
-                  <a href="about.php" class="text-decoration-none">Discover More</a>
+                  <a href="about.php" class="text-decoration-none">Our Services</a>
                   <a href="#" class="text-decoration-none play-button"><i class="fa-solid fa-play"></i></a>
                 </div>
               </div>
@@ -49,27 +49,23 @@
               <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-12 mb-md-0 mb-4 text-md-left text-center">
                   <div class="cards-outer outer-card1" data-aos="fade-up">
-                    <h6 class="heading-background">virtual events</h6>
-                    <p class="card-heading-p vertical-bar-line">Cum sociis natoque penatibus et
-                      magnisd is parturient montes nasc.</p>
-                    <p class="date-p">August 11, 2021</p>
+                    <h6 class="heading-background">Fully Licensed by the SIA</h6>
+                    <p class="card-heading-p vertical-bar-line">Our guards are certified by the Security Industry Authority, guaranteeing compliance and expertise.</p>
+                    <p class="date-p">Available 24/7</p>
                   </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12 mb-md-0 mb-4 text-md-left text-center">
                   <div class="cards-outer outer-padding-left outer-card2" data-aos="fade-up">
-                    <h6 class="heading-background">new report</h6>
-                    <p class="card-heading-p vertical-bar-line">Cum sociis natoque penatibus et
-                      magnisd is parturient montes nasc.</p>
-                    <p class="date-p">August 11, 2021</p>
+                    <h6 class="heading-background">Highly Trained & Professional</h6>
+                    <p class="card-heading-p vertical-bar-line">Our team is trained to the highest standards, offering reliable and effective security.</p>
+                    <p class="date-p">Elite Training & Expertise</p>
                   </div>
-
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12 mb-md-0 mb-4 text-md-left text-center" data-aos="fade-up">
                   <div class="outer-padding-left-last outer-card3">
-                    <h6 class="heading-background">expert panel</h6>
-                    <p class="card-heading-p">Cum sociis natoque penatibus et magnisd is parturient
-                      montes nasc.</p>
-                    <p class="date-p">August 11, 2021</p>
+                    <h6 class="heading-background">Approachable Yet Tough</h6>
+                    <p class="card-heading-p">Friendly customer service with the ability to act decisively when needed.</p>
+                    <p class="date-p">Professional Security Services</p>
                   </div>
                 </div>
               </div>
@@ -133,9 +129,8 @@
             <div class="row">
                 <div class="col-12">
                     <h3 class="text-center"  data-aos="fade-up"
-                    data-aos-anchor-placement="top-bottom">Why Choose Us</h3>
-                        <p class="text-center">Lorem ipsum dolor sit amet consectetuer adipiscing elitenean commodo
-                        ligula eget dolorenean massa.
+                    data-aos-anchor-placement="top-bottom">Why Choose Mascot Security</h3>
+                        <p class="text-center">We provide professional security services tailored to various industries and environments, ensuring safety, protection, and peace of mind 24/7.
                         </p>
                 </div>
             </div>
@@ -147,9 +142,8 @@
                             <figure class="mb-0"><img src="assets/images/about-round-icon1.png" alt="">
                             </figure>
                         </div>
-                        <h4>Security Services</h4>
-                        <p class="security-services-p">Donec pede justo, fringilla vel, aliquet nec vulputate
-                            eget, arcu. In enim justo, rhoncus ut imperdiet.</p>
+                        <h4>Fully Licensed & Compliant</h4>
+                        <p class="security-services-p">Our security officers are certified by the Security Industry Authority (SIA), ensuring full compliance with UK regulations and industry best practices.</p>
                         <a href="about.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
                                     class="fa fa-angle-right"></i></span></a>
                     </div>
@@ -161,9 +155,8 @@
                             <figure class="mb-0 icon-color"><img src="assets/images/about-round-icon2.png" alt="">
                             </figure>
                         </div>
-                        <h4>Data Privacy</h4>
-                        <p class="security-services-p">Lorem ipsum dolor sit ametconsectetuer dipiscing
-                            elitaenean commodo ligula eget dolor aenean massa.</p>
+                        <h4>Highly Trained & Experienced</h4>
+                        <p class="security-services-p">Every team member undergoes rigorous training in conflict resolution, emergency response, and advanced security protocols with industry-leading expertise.</p>
                         <a href="about.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
                                     class="fa fa-angle-right"></i></span></a>
                     </div>
@@ -175,9 +168,8 @@
                             <figure class="mb-0"><img src="assets/images/about-round-icon3.png" alt="">
                             </figure>
                         </div>
-                        <h4>Industry Certified</h4>
-                        <p class="security-services-p">Integer tincidunt Cras dapibus bivamus ele mentum semper
-                            nisienean vulputate eleife nd tellusenean leo ligula.</p>
+                        <h4>Reliable 24/7 Protection</h4>
+                        <p class="security-services-p">Security threats don't take breaks, and neither do we. Our dedicated security personnel provide round-the-clock protection, ensuring your premises remain safe at all times.</p>
                         <a href="about.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
                                     class="fa fa-angle-right"></i></span></a>
                     </div>
@@ -199,13 +191,9 @@
                 <div class="col-lg-1 col-md-1 col-sm-1"></div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <div class="cyber-content" data-aos="fade-up-right">
-                        <h3>Advanced <span class="cyber-text">Cyber Security</span> Provider</h3>
-                        <p class="security-services-p">Lorem ipsum dolor sit amet consectetuer adipiscing
-                            elitenean commo doligula eget dolorenean massa.In enim justo, rhoncus ut, imperdiet
-                            avene natis vitae justo nullam dictum felis eu pede mollis pretium Inte ger tincid
-                            unt cras dapibus</p>
-                        <p class="security-services-p cyber-p-margin-bottom">Vamus elementum semper nisi aenean
-                            vulputate eleife nd tellus onsec tet ueradip.</p>
+                        <h3>Professional <span class="cyber-text">Security Services</span> Provider</h3>
+                        <p class="security-services-p">Our purpose is to protect people, property, and peace of mind 24/7. We exist to deliver safety and reassurance wherever it's needed. From the moment we're on-site, our purpose is clear: to create secure environments that allow businesses, communities, and individuals to thrive without fear or disruption.</p>
+                        <p class="security-services-p cyber-p-margin-bottom">We are working toward a future where every client regardless of industry or scale can rely on Mascot Security for proactive protection, elite professionalism, and unmatched customer care.</p>
                         <div class="cyber-contact-btn">
                             <a href="contact.php" class="text-decoration-none">Contact Us</a>
                         </div>
@@ -266,242 +254,225 @@
             </div>
         </div>
     </div>
-    <!-- CYBER-SECURITY-SOLUTION -->
+    <!-- SECURITY-SERVICES-SECTION -->
     <section class="cyber-security-section cyber-security-section2 overflow-hidden">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-12">
-                    <div class="cyber-content" data-aos="fade-up-left">
-                        <h3>Providing Best <span class="cyber-text">Cyber Security </span>Solutions</h3>
-                        <p class="security-services-p">Lorem ipsum dolor sit amet consectetuer adipiscing
-                            elitenean commo doligula eget dolorenean massa.In enim justo, rhoncus ut, imperdiet
-                            avene natis vitae justo nullam dictum felis eu pede mollis pretium Inte ger tincid
-                            unt cras dapibus</p>
-                        <p class="security-services-p cyber-p-margin-bottom">Vamus elementum semper nisi aenean
-                            vulputate eleife nd tellus onsec tet ueradip.</p>
-                        <div class="cyber-contact-btn">
-                            <a href="contact.php" class="text-decoration-none">Contact Us</a>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-sm-12">
+                        <div class="cyber-content" data-aos="fade-up-left">
+                            <h3>Providing Professional <span class="cyber-text">Security </span>Services</h3>
+                            <p class="security-services-p">At Mascot Security we provide professional security services tailored to various industries 
+                                and environments. From hospitality venues and corporate events to construction sites and 
+                                private properties, our expert team ensures safety, protection, and peace of mind.</p>
+                            <p class="security-services-p cyber-p-margin-bottom">Our Purpose: To protect people, property, and peace of mind 24/7.</p>
+                            <div class="cyber-contact-btn">
+                                <a href="contact.php" class="text-decoration-none">Contact Us</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-5 col-md-5 col-sm-12 text-md-right text-center">
-                    <div class="cyber-content-img-right" data-aos="fade-up-right">
-                        <figure class="mb-0"><img src="assets/images/cyber-security-right-img.png" alt="" class="">
-                        </figure>
+                    <div class="col-lg-5 col-md-5 col-sm-12 text-md-right text-center">
+                        <div class="cyber-content-img-right" data-aos="fade-up-right">
+                            <figure class="mb-0"><img src="assets/images/cyber-security-right-img.png" alt="" class="">
+                            </figure>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-    <!-- ABOUT-US_SECTION2 -->
-    <section class="about-us-section-start about-us-section-2 overflow-hidden">
-        <div class="about-right-icon position-relative">
-            <figure class="about2-left-img"><img src="assets/images/about-section2-left-img.png" alt=""
-                    class="img-fluid">
-            </figure>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <h3 class="text-center offer-section-title"  data-aos="flip-up">What We Offer</h3>
-                    <p class="text-center"  data-aos="fade-left">Lorem ipsum dolor sit amet consectetuer adipiscing elitenean commodo
-                        ligula eget dolorenean massa.</p>
-                </div>
+        </section>
+        <!-- SERVICES-SECTION -->
+        <section class="about-us-section-start about-us-section-2 overflow-hidden">
+            <div class="about-right-icon position-relative">
+                <figure class="about2-left-img"><img src="assets/images/about-section2-left-img.png" alt=""
+                        class="img-fluid">
+                </figure>
             </div>
-            <div class="row">
-                <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="about-us-content about-margin-bottom" data-aos="fade-up">
-                        <div class="icons-rounded-box">
-                            <figure class="mb-0"><img src="assets/images/about-section2-icon1.png" alt="">
-                            </figure>
-                        </div>
-                        <h4>Threat Intelligence</h4>
-                        <p class="security-services-p">Donec pede justo, fringilla vel, aliquet nec vulputate
-                            eget, arcu. In enim justo, rhoncus ut imperdiet.</p>
-                        <a href="about.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
-                                    class="fa fa-angle-right"></i></span></a>
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h3 class="text-center offer-section-title" data-aos="flip-up">Our Services</h3>
+                        <p class="text-center" data-aos="fade-left">We provide professional security services tailored to various industries and environments.</p>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="about-us-content about-margin-bottom" data-aos="fade-up">
-                        <div class="icons-rounded-box">
-                            <figure class="mb-0 icon-color"><img src="assets/images/about-section2-icon2.png" alt="">
-                            </figure>
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <div class="about-us-content about-margin-bottom" data-aos="fade-up">
+                            <div class="icons-rounded-box">
+                                <figure class="mb-0"><img src="assets/images/about-section2-icon1.png" alt="">
+                                </figure>
+                            </div>
+                            <h4>Manned Guard</h4>
+                            <p class="security-services-p">Manned Guarding is the backbone of physical security, and our guards do more than stand watch. They deter threats, respond to incidents, and maintain order with authority and professionalism.</p>
+                            <a href="services.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
+                                        class="fa fa-angle-right"></i></span></a>
                         </div>
-                        <h4>Security Assessment</h4>
-                        <p class="security-services-p">Donec pede justo, fringilla vel, aliquet nec vulputate
-                            eget, arcu. In enim justo, rhoncus ut imperdiet.</p>
-                        <a href="about.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
-                                    class="fa fa-angle-right"></i></span></a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <div class="about-us-content about-margin-bottom" data-aos="fade-up">
+                            <div class="icons-rounded-box">
+                                <figure class="mb-0 icon-color"><img src="assets/images/about-section2-icon2.png" alt="">
+                                </figure>
+                            </div>
+                            <h4>Event Security</h4>
+                            <p class="security-services-p">From festivals and corporate events to private parties and community functions, Mascot Security delivers expert event security tailored to the size, style, and sensitivity of your occasion.</p>
+                            <a href="services.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
+                                        class="fa fa-angle-right"></i></span></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <div class="about-us-content about-margin-bottom" data-aos="fade-up">
+                            <div class="icons-rounded-box">
+                                <figure class="mb-0"><img src="assets/images/about-section2-icon3.png" alt="">
+                                </figure>
+                            </div>
+                            <h4>Construction Security</h4>
+                            <p class="security-services-p">From high rise developments and roadwork projects to residential builds and industrial zones, we provide specialised construction site security designed to protect people, property, and progress.</p>
+                            <a href="services.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
+                                        class="fa fa-angle-right"></i></span></a>
+                        </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="about-us-content about-margin-bottom" data-aos="fade-up">
-                        <div class="icons-rounded-box">
-                            <figure class="mb-0"><img src="assets/images/about-section2-icon3.png" alt="">
-                            </figure>
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <div class="about-us-content" data-aos="fade-up">
+                            <div class="icons-rounded-box">
+                                <figure class="mb-0"><img src="assets/images/about-section2-icon4.png" alt="">
+                                </figure>
+                            </div>
+                            <h4>Retail & Corporate Reception</h4>
+                            <p class="security-services-p">Our professional, front-of-house security personnel are trained to maintain a high level of vigilance while offering a friendly, approachable presence that reinforces your company's commitment to safety.</p>
+                            <a href="services.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
+                                        class="fa fa-angle-right"></i></span></a>
                         </div>
-                        <h4>Compromise Assessment</h4>
-                        <p class="security-services-p">Donec pede justo, fringilla vel, aliquet nec vulputate
-                            eget, arcu. In enim justo, rhoncus ut imperdiet.</p>
-                        <a href="about.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
-                                    class="fa fa-angle-right"></i></span></a>
                     </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="about-us-content" data-aos="fade-up">
-                        <div class="icons-rounded-box">
-                            <figure class="mb-0"><img src="assets/images/about-section2-icon4.png" alt="">
-                            </figure>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <div class="about-us-content" data-aos="fade-up">
+                            <div class="icons-rounded-box">
+                                <figure class="mb-0"><img src="assets/images/about-round-icon1.png" alt="">
+                                </figure>
+                            </div>
+                            <h4>CCTV Monitoring</h4>
+                            <p class="security-services-p">With Mascot Security's 24/7 CCTV Monitoring services, your property is never left unguarded. Our trained surveillance specialists keep eyes on your site in real time—detecting suspicious activity.</p>
+                            <a href="services.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
+                                        class="fa fa-angle-right"></i></span></a>
                         </div>
-                        <h4>Incident Response</h4>
-                        <p class="security-services-p">Donec pede justo, fringilla vel, aliquet nec vulputate
-                            eget, arcu. In enim justo, rhoncus ut imperdiet.</p>
-                        <a href="about.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
-                                    class="fa fa-angle-right"></i></span></a>
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="about-us-content" data-aos="fade-up">
-                        <div class="icons-rounded-box">
-                            <figure class="mb-0"><img src="assets/images/about-round-icon1.png" alt="">
-                            </figure>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <div class="about-us-content" data-aos="fade-up">
+                            <div class="icons-rounded-box">
+                                <figure class="mb-0"><img src="assets/images/about-section2-icon6.png" alt="">
+                                </figure>
+                            </div>
+                            <h4>Hotel Security</h4>
+                            <p class="security-services-p">Our Hotel Security Services are designed to discreetly protect your guests, staff, and property while upholding the welcoming atmosphere your brand is known for.</p>
+                            <a href="services.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
+                                        class="fa fa-angle-right"></i></span></a>
                         </div>
-                        <h4>Security Training</h4>
-                        <p class="security-services-p">Donec pede justo, fringilla vel, aliquet nec vulputate
-                            eget, arcu. In enim justo, rhoncus ut imperdiet.</p>
-                        <a href="about.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
-                                    class="fa fa-angle-right"></i></span></a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="about-us-content" data-aos="fade-up">
-                        <div class="icons-rounded-box">
-                            <figure class="mb-0"><img src="assets/images/about-section2-icon6.png" alt="">
-                            </figure>
-                        </div>
-                        <h4>CLoud Security</h4>
-                        <p class="security-services-p">Donec pede justo, fringilla vel, aliquet nec vulputate
-                            eget, arcu. In enim justo, rhoncus ut imperdiet.</p>
-                        <a href="about.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
-                                    class="fa fa-angle-right"></i></span></a>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-    <!--Accordian-Section -->
-    <section class="cyber-security-section accordian-section overflow-hidden">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-12">
-                    <div class="faq-content-img" data-aos="fade-right">
-                        <figure class="mb-0"><img src="assets/images/accordian-left-img.png" alt="" class="">
-                        </figure>
+        </section>
+        <!--Accordian-Section -->
+        <section class="cyber-security-section accordian-section overflow-hidden">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-sm-12">
+                        <div class="faq-content-img" data-aos="fade-right">
+                            <figure class="mb-0"><img src="assets/images/accordian-left-img.png" alt="" class="">
+                            </figure>
+                        </div>
                     </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12">
-                    <div class="cyber-content accordian-text" data-aos="fade-up">
-                        <h3>General Questions Frequently Asked Questions?</h3>
-                        <div class="accordian-inner">
-                            <div id="accordion1">
-                                <div class="accordion-card">
-                                    <div class="" id="headingFour">
-                                        <a href="#" class="btn btn-link text-decoration-none"
-                                            data-toggle="collapse" data-target="#collapseFour" aria-expanded="false"
-                                            aria-controls="collapseFour">
-                                            <h5 class="faq-btn-text">How Can I Safely Browse The Internet?</h5>
-                                        </a>
-                                    </div>
-                                    <div id="collapseFour" class="collapse show" aria-labelledby="headingFour">
-                                        <div class="card-body">
-                                            <p class="text-left accordian-text-color">
-                                                Lorem ipsum dolor sit amet consectetuer adipiscing elitenean
-                                                commo doligula eget dolorenean massaIn enim justo, rhoncus ut,
-                                                imperdiet avene natis vitae justo nullam dictum felis eu.
-                                            </p>
+                    <div class="col-lg-6 col-md-6 col-sm-12">
+                        <div class="cyber-content accordian-text" data-aos="fade-up">
+                            <h3>Our Core Values</h3>
+                            <div class="accordian-inner">
+                                <div id="accordion1">
+                                    <div class="accordion-card">
+                                        <div class="" id="headingFour">
+                                            <a href="#" class="btn btn-link text-decoration-none"
+                                                data-toggle="collapse" data-target="#collapseFour" aria-expanded="false"
+                                                aria-controls="collapseFour">
+                                                <h5 class="faq-btn-text">Presence</h5>
+                                            </a>
+                                        </div>
+                                        <div id="collapseFour" class="collapse show" aria-labelledby="headingFour">
+                                            <div class="card-body">
+                                                <p class="text-left accordian-text-color">
+                                                    We provide a confident and composed presence that deters threats, 
+                                                    reassures clients, and commands respect.
+                                                </p>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <!-- 2 -->
-                    <div class="cyber-content accordian-text">
-                        <div class="accordian-inner">
-                            <div id="accordion2">
-                                <div class="accordion-card">
-                                    <div class="" id="headingFive">
-                                        <a href="#" class="btn btn-link collapsed text-decoration-none"
-                                            data-toggle="collapse" data-target="#collapseFive" aria-expanded="false"
-                                            aria-controls="collapseFive">
-                                            <h5 class="faq-btn-text">How Does Secuvant's Co-managed Security
-                                                Model Work?</h5>
-                                        </a>
-                                    </div>
-                                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive">
-                                        <div class="card-body">
-                                            <p class="text-left accordian-text-color">
-                                                Lorem ipsum dolor sit amet consectetuer adipiscing elitenean
-                                                commo doligula eget dolorenean massaIn enim justo, rhoncus ut,
-                                                imperdiet avene natis vitae justo nullam dictum felis eu.
-                                            </p>
+                        <!-- 2 -->
+                        <div class="cyber-content accordian-text">
+                            <div class="accordian-inner">
+                                <div id="accordion2">
+                                    <div class="accordion-card">
+                                        <div class="" id="headingFive">
+                                            <a href="#" class="btn btn-link collapsed text-decoration-none"
+                                                data-toggle="collapse" data-target="#collapseFive" aria-expanded="false"
+                                                aria-controls="collapseFive">
+                                                <h5 class="faq-btn-text">Proactive Vigilance</h5>
+                                            </a>
+                                        </div>
+                                        <div id="collapseFive" class="collapse" aria-labelledby="headingFive">
+                                            <div class="card-body">
+                                                <p class="text-left accordian-text-color">
+                                                    Our teams are trained to anticipate risks before they 
+                                                    escalate because prevention is our first line of defense.
+                                                </p>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <!-- 3 -->
-                    <div class="cyber-content accordian-text">
-                        <div class="accordian-inner">
-                            <div id="accordion3">
-                                <div class="accordion-card">
-                                    <div class="" id="headingSix">
-                                        <a href="#" class="btn btn-link collapsed text-decoration-none"
-                                            data-toggle="collapse" data-target="#collapseSix" aria-expanded="false"
-                                            aria-controls="collapseSix">
-                                            <h5 class="faq-btn-text">What Type Frequency Of Alerts And
-                                                Notifications
-                                                Will Receive?</h5>
-                                        </a>
-                                    </div>
-                                    <div id="collapseSix" class="collapse" aria-labelledby="headingSix">
-                                        <div class="card-body">
-                                            <p class="text-left accordian-text-color">
-                                                Lorem ipsum dolor sit amet consectetuer adipiscing elitenean
-                                                commo doligula eget dolorenean massaIn enim justo, rhoncus ut,
-                                                imperdiet avene natis vitae justo nullam dictum felis eu.
-                                            </p>
+                        <!-- 3 -->
+                        <div class="cyber-content accordian-text">
+                            <div class="accordian-inner">
+                                <div id="accordion3">
+                                    <div class="accordion-card">
+                                        <div class="" id="headingSix">
+                                            <a href="#" class="btn btn-link collapsed text-decoration-none"
+                                                data-toggle="collapse" data-target="#collapseSix" aria-expanded="false"
+                                                aria-controls="collapseSix">
+                                                <h5 class="faq-btn-text">Professional Integrity</h5>
+                                            </a>
+                                        </div>
+                                        <div id="collapseSix" class="collapse" aria-labelledby="headingSix">
+                                            <div class="card-body">
+                                                <p class="text-left accordian-text-color">
+                                                    We uphold the highest standards of conduct, 
+                                                    confidentiality, and ethics in every interaction, on every post.
+                                                </p>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <!-- 4 -->
-                    <div class="cyber-content accordian-text">
-                        <div class="accordian-inner">
-                            <div id="accordion4">
-                                <div class="accordion-card">
-                                    <div class="" id="headingSeven">
-                                        <a href="#" class="btn btn-link collapsed text-decoration-none"
-                                            data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false"
-                                            aria-controls="collapseSeven">
-                                            <h5 class="faq-btn-text">How Is Our Data Stored And Protected And
-                                                For
-                                                How Long?</h5>
-                                        </a>
-                                    </div>
-                                    <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven">
-                                        <div class="card-body">
-                                            <p class="text-left accordian-text-color">
-                                                Lorem ipsum dolor sit amet consectetuer adipiscing elitenean
-                                                commo doligula eget dolorenean massaIn enim justo, rhoncus ut,
-                                                imperdiet avene natis vitae justo nullam dictum felis eu.
-                                            </p>
+                        <!-- 4 -->
+                        <div class="cyber-content accordian-text">
+                            <div class="accordian-inner">
+                                <div id="accordion4">
+                                    <div class="accordion-card">
+                                        <div class="" id="headingSeven">
+                                            <a href="#" class="btn btn-link collapsed text-decoration-none"
+                                                data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false"
+                                                aria-controls="collapseSeven">
+                                                <h5 class="faq-btn-text">Responsiveness</h5>
+                                            </a>
+                                        </div>
+                                        <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven">
+                                            <div class="card-body">
+                                                <p class="text-left accordian-text-color">
+                                                    In moments that matter, we act fast and decisively. Our ability 
+                                                    to manage incidents with clarity is what sets us apart.
+                                                </p>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -510,79 +481,77 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-    <!--PRICING-PLAN_SECTION -->
-    <section class="about-us-section-start pricing-plan-section overflow-hidden">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <h3 class="text-center" data-aos="fade-up">Your Pricing Plan</h3>
-                    <p class="text-center" data-aos="fade-up-left">Lorem ipsum dolor sit amet consectetuer adipiscing elitenean commodo
-                        ligula eget dolorenean massa.</p>
+        </section>
+        <!--WHY-CHOOSE-US-SECTION -->
+        <section class="about-us-section-start pricing-plan-section overflow-hidden">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h3 class="text-center" data-aos="fade-up">Why Choose Mascot Security?</h3>
+                        <p class="text-center" data-aos="fade-up-left">We provide professional security services with exceptional standards and reliability.</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <div class="about-us-content" data-aos="fade-up">
+                            <div class="icons-rounded-box">
+                                <figure class="mb-0"><img src="assets/images/pricing-plan-icon1.png" alt="">
+                                </figure>
+                            </div>
+                            <h4 class="pricing-plan-h4">Fully Licensed & Compliant</h4>
+                            <h3 class="pricing-plan-color">SIA-Approved & Fully Licensed</h3>
+                            <p class="pricing-content">Our security officers are certified by the 
+                                Security Industry Authority (SIA), ensuring 
+                                full compliance with UK regulations and 
+                                industry best practices. You can trust us to 
+                                provide professional, legally compliant 
+                                security services tailored to your needs.</p>
+                            <div class="order-now-btn">
+                                <a href="contact.php" class="text-decoration-none ">Contact Us</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <div class="about-us-content" data-aos="fade-up">
+                            <div class="icons-rounded-box">
+                                <figure class="mb-0 icon-color"><img src="assets/images/pricing-plan-icon2.png" alt="">
+                                </figure>
+                            </div>
+                            <h4 class="pricing-plan-h4">Highly Trained & Experienced</h4>
+                            <h3 class="pricing-plan-color">Elite Training & Expertise</h3>
+                            <p class="pricing-content">Every team member undergoes rigorous 
+                                training in conflict resolution, emergency 
+                                response, and advanced security 
+                                protocols. With industry-leading expertise, 
+                                we ensure unmatched protection for your 
+                                business, staff, and assets.</p>
+                            <div class="order-now-btn">
+                                <a href="contact.php" class="text-decoration-none ">Contact Us</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <div class="about-us-content" data-aos="fade-up">
+                            <div class="icons-rounded-box">
+                                <figure class="mb-0"><img src="assets/images/pricing-plan-icon3.png" alt="">
+                                </figure>
+                            </div>
+                            <h4 class="pricing-plan-h4">Reliable & 24/7 Protection</h4>
+                            <h3 class="pricing-plan-color">Always On Duty</h3>
+                            <p class="pricing-content">Security threats don't take breaks, and 
+                                neither do we. Our dedicated security 
+                                personnel provide round-the-clock 
+                                protection, ensuring your premises remain 
+                                safe at all times. We are always ready to 
+                                respond swiftly in case of an emergency.</p>
+                            <div class="order-now-btn">
+                                <a href="contact.php" class="text-decoration-none ">Contact Us</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="about-us-content" data-aos="fade-up">
-                        <div class="icons-rounded-box">
-                            <figure class="mb-0"><img src="assets/images/pricing-plan-icon1.png" alt="">
-                            </figure>
-                        </div>
-                        <h4 class="pricing-plan-h4">Beginner</h4>
-                        <h3 class="pricing-plan-color">Free <span class="pricing-free-text">/Month</span></h3>
-                        <p class="pricing-content">30 Days Product Testing
-                            Upgrade Anytime Protection
-                            500 Malware Removal
-                            24/7 Live Assistance
-                            Scan Every 12 Hrs
-                            Configure Software One-time</p>
-                        <div class="order-now-btn">
-                            <a href="pricing.php" class="text-decoration-none ">Order Now</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="about-us-content" data-aos="fade-up">
-                        <div class="icons-rounded-box">
-                            <figure class="mb-0 icon-color"><img src="assets/images/pricing-plan-icon2.png" alt="">
-                            </figure>
-                        </div>
-                        <h4 class="pricing-plan-h4">Business</h4>
-                        <h3 class="pricing-plan-color">$39.99<span class="pricing-free-text">/Month</span></h3>
-                        <p class="pricing-content">40 Days Product Testing
-                            Upgrade Anytime Protection
-                            1000 Malware Removal
-                            24/7 Live Assistance
-                            Scan Every 13 Hrs
-                            Configure Software One-time</p>
-                        <div class="order-now-btn">
-                            <a href="pricing.php" class="text-decoration-none ">Order Now</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="about-us-content" data-aos="fade-up">
-                        <div class="icons-rounded-box">
-                            <figure class="mb-0"><img src="assets/images/pricing-plan-icon3.png" alt="">
-                            </figure>
-                        </div>
-                        <h4 class="pricing-plan-h4">Exclusive</h4>
-                        <h3 class="pricing-plan-color">$47.85 <span class="pricing-free-text">/Month</span></h3>
-                        <p class="pricing-content">50 Days Product Testing
-                            Upgrade Anytime Protection
-                            Unlimited Malware Removal
-                            24/7 Live Assistance
-                            Scan Every 14 Hrs
-                            Configure Software Life-time</p>
-                        <div class="order-now-btn">
-                            <a href="pricing.php" class="text-decoration-none ">Order Now</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+        </section>
     <!-- ABOUT-TEAM-SECTION -->
     <section class="about-us-section-start about-teams-section overflow-hidden">
         <div class="about-right-icon position-relative" data-aos="fade-up-right">
@@ -677,14 +646,13 @@
             </div>
         </div>
     </section>
-    <!-- Blogs-Section -->
+    <!-- Services-Showcase-Section -->
     <section class="about-us-section-start blogs-section-starts overflow-hidden">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h3 class="text-center" data-aos="fade-up">Latest News & Blog</h3>
-                    <p class="text-center" data-aos="fade-up-left">Lorem ipsum dolor sit amet consectetuer adipiscing elitenean commodo
-                        ligula eget dolorenean massa.</p>
+                    <h3 class="text-center" data-aos="fade-up">Our Security Services</h3>
+                    <p class="text-center" data-aos="fade-up-left">Professional security services tailored to your specific needs.</p>
                 </div>
             </div>
         </div>
@@ -692,64 +660,59 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="blogs-section">
-                        <a href="blog-details.php">
+                        <a href="services.php">
                             <div class="images-blog" data-aos="fade-up">
-                                <figure class="mb-0"><img class="img-fluid" src="assets/images/blog-section-img1.png" alt="">
-                                </figure>
+                                <figure class="mb-0"><img class="img-fluid" src="assets/images/blog-section-img1.png" alt="" /></figure>
                             </div>
-                            <h5 class="blogs-h5">Protect Your Workplace From Cyber Attacks</h5>
-                            <p class="blogs-p">Nullam dictum felis eu pede mollis pre tium Integer tinciduntras dapibusv
-                                enean vulputate eleifend tellus.</p>
+                            <h5 class="blogs-h5">Night Clubs & Bar Security</h5>
+                            <p class="blogs-p">With Mascot Security's elite Nightclub & Bar Security Services, every night is handled with precision, professionalism, and presence.</p>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="blogs-section">
-                        <a href="blog-details.php">
+                        <a href="services.php">
                             <div class="images-blog" data-aos="fade-up">
-                                <figure class="mb-0"><img class="img-fluid" src="assets/images/blog-section-img2.png" alt="">
-                                </figure>
+                                <figure class="mb-0"><img class="img-fluid" src="assets/images/blog-section-img2.png" alt="" /></figure>
                             </div>
-                            <h5 class="blogs-h5">The Security Risks Of Changing Package Owners
-                            </h5>
-                            <p class="blogs-p">Quisque rutruma enean imperdiet etiam ultricies nisi vel augue
-                                curabitur unisi nam eget dui etiam rhoncus.</p>
+                            <h5 class="blogs-h5">Event Security Services</h5>
+                            <p class="blogs-p">From festivals and corporate events to private parties and community functions, Mascot Security delivers expert event security tailored to the size, style, and sensitivity of your occasion.</p>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="blogs-section">
-                        <a href="blog-details.php">
+                        <a href="services.php">
                             <div class="images-blog" data-aos="fade-up">
-                                <figure class="mb-0"><img class="img-fluid" src="assets/images/blog-section-img3.png" alt="">
-                                </figure>
+                                <figure class="mb-0"><img class="img-fluid" src="assets/images/blog-section-img3.png" alt="" /></figure>
                             </div>
-                            <h5 class="blogs-h5">Avoid Mistakes In Social Media Posts</h5>
-                            <p class="blogs-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                eiusmod tempor incididunt ut labore et dolore.</p>
+                            <h5 class="blogs-h5">Hotel Security Services</h5>
+                            <p class="blogs-p">Our Hotel Security Services are designed to discreetly protect your guests, staff, and property while upholding the welcoming atmosphere your brand is known for.</p>
                         </a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- Form-Section -->
+    <!-- Contact-Form-Section -->
     <section class="blogs-section-starts form-section-starts overflow-hidden">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="form-section" data-aos="fade-up">
-                        <h3 class="text-center" data-aos="fade-up">Subscribe Our Newsletter</h3>
-                        <p class="text-center form-section-p" data-aos="fade-up-left">Lorem ipsum dolor sit amet consectetuer adipiscing
-                            elitenean commodo
-                            ligula eget dolorenean massa.</p>
+                        <h3 class="text-center" data-aos="fade-up">Let's Talk Security. We're Here 24/7.</h3>
+                        <p class="text-center form-section-p" data-aos="fade-up-left">
+                            Your safety is our priority. Whether you're looking to secure a construction site, plan event coverage, or request a site assessment, our team is ready to help day or night.
+                        </p>
                         <div class="input-group mb-3 input-field-form">
-                            <input type="text" class="form-control input-form-input"
-                                placeholder="Enter your email address">
+                            <input type="text" class="form-control input-form-input" placeholder="Enter your email address" />
                             <div class="input-group-append form-button">
-                               <button class="btn btn-form-section" type="submit">Subscribe</button>
+                                <button class="btn btn-form-section" type="submit">Contact Us</button>
                             </div>
                         </div>
+                        <p class="text-center">
+                            Email: info@mascotsecurity.co.uk | Control Room: control@mascotsecurity.co.uk
+                        </p>
                     </div>
                 </div>
             </div>

@@ -268,8 +268,8 @@
   <!-- HEADER-SECTION -->
   <?php include 'includes/header.php'; ?>
 
-  <!--End Slider Section-->
-  <section class="blog-posts overflow-hidden">
+<!--End Slider Section-->
+<section class="blog-posts overflow-hidden">
     <div class="container">
       <div class="row">
         <div id="blog" class="three-column col-xl-12" data-aos="fade-up">
@@ -279,24 +279,23 @@
                 <div class="post-item-wrap position-relative">
                   <div class="post-image">
                     <a href="#">
-                      <img alt="" src="assets/images/standard_post_img01.jpg" />
+                      <img alt="Security guard at hotel entrance" src="assets/images/standard_post_img01.jpg" />
                     </a>
                     <span class="post-meta-category">
-                      <a href="#">Lifestyle</a>
+                      <a href="#">Hotel Security</a>
                     </span>
                     <!--post-image-->
                   </div>
                   <div class="post-item-description">
-                    <span class="post-meta-date"> Jan 21, 2017 </span>
+                    <span class="post-meta-date"> April 15, 2025 </span>
                     <span class="post-meta-comments">
-                      <a href="#"> 33 Comments </a>
+                      <a href="#"> 7 Comments </a>
                     </span>
                     <h2>
-                      <a href="#">Standard post with a single image </a>
+                      <a href="#">Enhancing Guest Experience Through Discreet Security </a>
                     </h2>
                     <p>
-                      Curabitur pulvinar euismod ante, ac sagittis ante
-                      posuere ac. Vivamus luctus commodo dolor porta feugiat.
+                      Our Hotel Security Services are designed to discreetly protect your guests, staff, and property while upholding the welcoming atmosphere your brand is known for.
                     </p>
                     <a href="blog-details.php" class="item-link text-decoration-none">Read More <i
                         class="fa fa-arrow-right"></i></a>
@@ -314,15 +313,15 @@
                   <div id="blogslider" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
                       <div class="carousel-item">
-                        <img src="assets/images/standard_post_img02.jpg" alt="" />
+                        <img src="assets/images/standard_post_img02.jpg" alt="Event security personnel" />
                         <!--carousel-item-->
                       </div>
                       <div class="carousel-item active carousel-item-left">
-                        <img src="assets/images/standard_post_img04.jpg" alt="" />
+                        <img src="assets/images/standard_post_img04.jpg" alt="Festival security" />
                         <!--carousel-item-->
                       </div>
                       <div class="carousel-item carousel-item-next carousel-item-left">
-                        <img src="assets/images/standard_post_img06.jpg" alt="" />
+                        <img src="assets/images/standard_post_img06.jpg" alt="Corporate event security" />
                         <!--carousel-item-->
                       </div>
                       <!--carousel-inner-->
@@ -336,16 +335,15 @@
                     </a>
                     <!--blogslider-->
                   </div>
-                  <span class="post-meta-category"><a href="#">Technology</a></span>
+                  <span class="post-meta-category"><a href="#">Event Security</a></span>
                   <div class="post-item-description">
-                    <span class="post-meta-date"> an 21, 2017 </span>
-                    <span class="post-meta-comments"><a href="#"> 33 Comments </a></span>
+                    <span class="post-meta-date"> April 10, 2025 </span>
+                    <span class="post-meta-comments"><a href="#"> 12 Comments </a></span>
                     <h2>
-                      <a href="#">Simplicity, a post with slider gallery</a>
+                      <a href="#">Keep the Crowd Safe. Keep the Vibe Strong.</a>
                     </h2>
                     <p>
-                      Curabitur pulvinar euismod ante, ac sagittis ante
-                      posuere ac. Vivamus luctus commodo dolor porta feugiat.
+                      From festivals and corporate events to private parties and community functions, Mascot Security delivers expert event security tailored to the size, style, and sensitivity of your occasion.
                     </p>
                     <a href="blog-details.php" class="item-link text-decoration-none">Read More <i
                         class="fa fa-arrow-right"></i></a>
@@ -362,24 +360,23 @@
                 <div class="post-item-wrap position-relative">
                   <div class="post-image">
                     <a href="#">
-                      <img alt="" src="assets/images/standard_post_img03.jpg" />
+                      <img alt="Construction site security" src="assets/images/standard_post_img03.jpg" />
                     </a>
                     <span class="post-meta-category">
-                      <a href="#">Science</a>
+                      <a href="#">Construction</a>
                     </span>
                     <!--post-image-->
                   </div>
                   <div class="post-item-description">
-                    <span class="post-meta-date"> Jan 21, 2017 </span>
+                    <span class="post-meta-date"> April 5, 2025 </span>
                     <span class="post-meta-comments">
-                      <a href="#"> 33 Comments </a>
+                      <a href="#"> 8 Comments </a>
                     </span>
                     <h2>
-                      <a href="#">Standard post with a single image </a>
+                      <a href="#">Protect the Site. Power the Progress. </a>
                     </h2>
                     <p>
-                      Curabitur pulvinar euismod ante, ac sagittis ante
-                      posuere ac. Vivamus luctus commodo dolor porta feugiat.
+                      From high rise developments and roadwork projects to residential builds and industrial zones, we provide specialised construction site security designed to protect people, property, and progress.
                     </p>
                     <a href="blog-details.php" class="item-link text-decoration-none">Read More <i
                         class="fa fa-arrow-right"></i></a>
@@ -396,10 +393,10 @@
                 <div class="post-item-wrap position-relative">
                   <div class="post-audio position-relative">
                     <a href="#">
-                      <img alt="" src="assets/images/standard_post_img05.jpg" />
+                      <img alt="CCTV monitoring center" src="assets/images/standard_post_img05.jpg" />
                     </a>
                     <span class="post-meta-category">
-                      <a href="#">Audio</a>
+                      <a href="#">CCTV</a>
                     </span>
                     <audio class="position-absolute" controls="">
                       <source src="horse.html" type="audio/ogg" />
@@ -408,16 +405,15 @@
                     <!--post-audio-->
                   </div>
                   <div class="post-item-description">
-                    <span class="post-meta-date"> Jan 21, 2017 </span>
+                    <span class="post-meta-date"> March 30, 2025 </span>
                     <span class="post-meta-comments">
-                      <a href="#"> 33 Comments </a>
+                      <a href="#"> 5 Comments </a>
                     </span>
                     <h2>
-                      <a href="#">Self Hosted HTML5 Audio (mp3) with image cover</a>
+                      <a href="#">Watch Every Angle. Secure Every Moment.</a>
                     </h2>
                     <p>
-                      Curabitur pulvinar euismod ante, ac sagittis ante
-                      posuere ac. Vivamus luctus commodo dolor porta feugiat.
+                      With Mascot Security's 24/7 CCTV Monitoring services, your property is never left unguarded. Our trained surveillance specialists keep eyes on your site in real time.
                     </p>
                     <a href="blog-details.php" class="item-link text-decoration-none">Read More <i
                         class="fa fa-arrow-right"></i></a>
@@ -436,18 +432,17 @@
                     <div class="embed-container">
                       <iframe src="https://player.vimeo.com/video/157467640?background=1"></iframe>
                     </div>
-                    <span class="post-meta-category"><a href="#">Video</a></span>
+                    <span class="post-meta-category"><a href="#">Training</a></span>
                     <!--post-video-->
                   </div>
                   <div class="post-item-description">
-                    <span class="post-meta-date"> Jan 21, 2017 </span>
-                    <span class="post-meta-comments"><a href="#"> 33 Comments </a></span>
+                    <span class="post-meta-date"> March 25, 2025 </span>
+                    <span class="post-meta-comments"><a href="#"> 9 Comments </a></span>
                     <h2>
-                      <a href="#">This is a example post with Vimeo video</a>
+                      <a href="#">Professional & Approachable Security Training</a>
                     </h2>
                     <p>
-                      Curabitur pulvinar euismod ante, ac sagittis ante
-                      posuere ac. Vivamus luctus commodo dolor porta feugiat.
+                      We balance a strong security presence with exceptional customer service. Our officers ensure safety while maintaining a welcoming atmosphere for employees, guests, and customers.
                     </p>
                     <a href="blog-details.php" class="item-link text-decoration-none">Read More <i
                         class="fa fa-arrow-right"></i></a>
@@ -466,18 +461,17 @@
                       <iframe width="560" height="376" src="https://www.youtube.com/embed/dA8Smj5tZOQ"></iframe>
                       <!--fluid-width-video-wrapper-->
                     </div>
-                    <span class="post-meta-category"><a href="#">Video</a></span>
+                    <span class="post-meta-category"><a href="#">Company</a></span>
                     <!--post-video-->
                   </div>
                   <div class="float-left w-100 post-item-description">
-                    <span class="post-meta-date"> Jan 21, 2017 </span>
-                    <span class="post-meta-comments"><a href="#"> 33 Comments </a></span>
+                    <span class="post-meta-date"> March 20, 2025 </span>
+                    <span class="post-meta-comments"><a href="#"> 6 Comments </a></span>
                     <h2>
-                      <a href="#">This is a example post with YouTube</a>
+                      <a href="#">Our 24/7 Control Room Now Open</a>
                     </h2>
                     <p>
-                      Curabitur pulvinar euismod ante, ac sagittis ante
-                      posuere ac. Vivamus luctus commodo dolor porta feugiat.
+                      Need urgent support? Our 24/7 Control Room is always on standby. Security threats don't take breaks, and neither do we. Our dedicated security personnel provide round-the-clock protection.
                     </p>
                     <a href="blog-details.php" class="item-link text-decoration-none">Read More <i
                         class="fa fa-arrow-right"></i></a>

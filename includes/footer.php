@@ -4,7 +4,7 @@
 <!-- Footer -->
 <div class="footer-section">
   <div class="about-right-icon">
-    <!-- <figure class="footer-icon"><img src="assets/images/footer-left.png" alt="" class="img-fluid"> -->
+    <figure class="footer-icon"><img src="assets/images/footer-left.png" alt="" class="img-fluid">
     </figure>
   </div>
   <div class="footer-outer-margin" data-aos="fade-up">
@@ -13,10 +13,9 @@
         <div class="col-lg-4 col-md-4 col-sm-6">
           <div class="footer-content1" data-aos="flip-left">
             <figure>
-              <a href="index.html"><img src="assets/images/redlight-logo.png" alt="" class="img-fluid" /></a>
+              <a href="index.html"><img src="assets/images/redlight-logo.png" alt="Mascot Security Logo" class="img-fluid" /></a>
             </figure>
-            <p class="red-light-footer-p">Lorem ipsum dolor sit amet, consectetur adipiscing elitsed do
-              eiusmod tempororem ipsum dolor sit am econsect ametconsectetetur adipiscing.</p>
+            <p class="red-light-footer-p">At Mascot Security we provide professional security services tailored to various industries and environments. From hospitality venues and corporate events to construction sites and private properties, our expert team ensures safety, protection, and peace of mind.</p>
             <div class="social-icons teams-social-icons">
               <ul class="list-unstyled">
                 <li><a href="#" class="text-decoration-none red-hover"><i
@@ -41,39 +40,38 @@
             </li>
             <li>
               <i class="fa-solid fa-caret-right"></i>
-              <a href="index.html" class="text-decoration-none footer-link-p">
-                Threat Hunter
-              </a>
-            </li>
-            <li>
-              <i class="fa-solid fa-caret-right"></i>
-              <a href="about.html" class="text-decoration-none footer-link-p">
-                Incident Responder
+              <a href="services.html" class="text-decoration-none footer-link-p">
+                Manned Guard
               </a>
             </li>
             <li>
               <i class="fa-solid fa-caret-right"></i>
               <a href="services.html" class="text-decoration-none footer-link-p">
-                Secure Managed IT
+                Event Security
               </a>
             </li>
             <li>
               <i class="fa-solid fa-caret-right"></i>
-              <a href="teams.html" class="text-decoration-none footer-link-p">
-                Compliance
-              </a>
-            </li>
-
-            <li>
-              <i class="fa-solid fa-caret-right"></i>
-              <a href="testimonial.html" class="text-decoration-none footer-link-p">
-                Cyber Security
+              <a href="services.html" class="text-decoration-none footer-link-p">
+                Construction Security
               </a>
             </li>
             <li>
               <i class="fa-solid fa-caret-right"></i>
-              <a href="pricing.html" class="text-decoration-none footer-link-p">
-                Disaster Planning
+              <a href="services.html" class="text-decoration-none footer-link-p">
+                Retail & Corporate Security
+              </a>
+            </li>
+            <li>
+              <i class="fa-solid fa-caret-right"></i>
+              <a href="services.html" class="text-decoration-none footer-link-p">
+                CCTV Monitoring
+              </a>
+            </li>
+            <li>
+              <i class="fa-solid fa-caret-right"></i>
+              <a href="services.html" class="text-decoration-none footer-link-p">
+                Hotel Security
               </a>
             </li>
           </ul>
@@ -88,19 +86,7 @@
             <li>
               <i class="fa-solid fa-caret-right"></i>
               <a href="index.html" class="text-decoration-none footer-link-p">
-                Support
-              </a>
-            </li>
-            <li>
-              <i class="fa-solid fa-caret-right"></i>
-              <a href="contact.html" class="text-decoration-none footer-link-p">
-                Contact Us
-              </a>
-            </li>
-            <li>
-              <i class="fa-solid fa-caret-right"></i>
-              <a href="services.html" class="text-decoration-none footer-link-p">
-                Knowledge Base
+                Home
               </a>
             </li>
             <li>
@@ -109,17 +95,16 @@
                 About Us
               </a>
             </li>
-
             <li>
               <i class="fa-solid fa-caret-right"></i>
-              <a href="faq.html" class="text-decoration-none footer-link-p">
-                FAQ
+              <a href="services.html" class="text-decoration-none footer-link-p">
+                Services
               </a>
             </li>
             <li>
               <i class="fa-solid fa-caret-right"></i>
-              <a href="testimonial.html" class="text-decoration-none footer-link-p">
-                Partnerships
+              <a href="contact.html" class="text-decoration-none footer-link-p">
+                Contact Us
               </a>
             </li>
           </ul>
@@ -134,26 +119,28 @@
                   </h5>
                 </li>
                 <li class="list-item position-reletive addres-list icon-list1">
-                  <div class="number"><a href="mailto:webmaster@example.com"
+                  <div class="number"><a href="mailto:info@mascotsecurity.co.uk"
                       class="text-decoration-none footer-link-p ml-0"><span
-                        class="footer-additional">Email: </span> info@redlight.com</a></div>
+                        class="footer-additional">Email: </span> info@mascotsecurity.co.uk</a></div>
                 </li>
                 <li class="list-item position-reletive addres-list icon-list1">
-                  <div class="contact-number"><a href="tel:+4733378901"
+                  <div class="contact-number"><a href="tel:+1234567890"
                       class="text-decoration-none footer-link-p ml-0"><span
-                        class="footer-additional">Phone:</span> +1 234 567 89 0 0</a></div>
+                        class="footer-additional">24/7 Control Room: </span> control@mascotsecurity.co.uk</a></div>
                 </li>
                 <li class="list-item position-reletive addres-list icon-list1">
-                  <div class="contact-number"><a href="tel:+4733378901"
+                  <div class="contact-number"><a href="#"
                       class="text-decoration-none footer-link-p ml-0"><span
-                        class="footer-additional">Fax:</span> +1 ( 987 ) 654 321 9 9</a>
+                        class="footer-additional">Website:</span> mascotsecurity.co.uk</a>
                   </div>
                 </li>
                 <li class="list-item position-reletive addres-list icon-list1">
                   <div class="contact-address"><a href="#"
                       class="text-decoration-none footer-link-p ml-0"><span
-                        class="footer-additional">Addres: </span> King Street Melbourne,
-                      3000, Australia</a></div>
+                        class="footer-additional">Address: </span> Piccadilly Business Centre,
+                      Unit C Aldow Enterprise Park,
+                      Blackett Street,
+                      Manchester, M12 6AE</a></div>
                 </li>
               </ul>
             </div>
@@ -167,7 +154,7 @@
       <div class="row">
         <div class="footer-bar-content w-100 overflow-hidden">
           <p class="text-size-16 mb-0">
-            Copyright ©2021 Redlight.com All Rights Reserved
+            Copyright ©2025 Mascot Security LTD. All Rights Reserved. Company Number: 16321401
           </p>
         </div>
       </div>

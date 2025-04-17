@@ -19,73 +19,55 @@
               <div class="post-item-wrap">
                 <div class="post-image">
                   <a href="#">
-                    <img alt="" src="assets/images/post-featured-img1.jpg" />
+                    <img alt="Security guard at entrance" src="assets/images/post-featured-img1.jpg" />
                   </a>
                 </div>
                 <div class="post-item-description">
-                  <h2 class="mb-0">Standard post with a single image</h2>
+                  <h2 class="mb-0">The Importance of Professional Security in Hospitality Venues</h2>
                   <div class="post-meta">
-                    <span class="post-meta-date color01"> Jan 21, 2017 </span>
-                    <span class="post-meta-comments color01"><a href="#"><span></span>33 Comments</a></span>
+                    <span class="post-meta-date color01"> April 12, 2025 </span>
+                    <span class="post-meta-comments color01"><a href="#"><span></span>5 Comments</a></span>
                   </div>
                   <p>
-                    Curabitur pulvinar euismod ante, ac sagittis ante posuere
-                    ac. Vivamus luctus commodo dolor porta feugiat. Fusce at
-                    velit id ligula pharetra laoreet. Ut nec metus a mi
-                    ullamcorper hendrerit. Nulla facilisi. Pellentesque sed
-                    nibh a quam accumsan dignissim quis quis urna. The most
-                    happiest time of the day!. Praesent id dolor dui, dapibus
-                    gravida elit. Donec consequat laoreet sagittis.
-                    Suspendisse ultricies ultrices viverra. Morbi rhoncus
-                    laoreet tincidunt. Mauris interdum convallis metus.M
+                    In today's hospitality industry, security is no longer an afterthought—it's an essential 
+                    component of the guest experience. At Mascot Security, we've seen firsthand how the right 
+                    security approach can enhance a venue's reputation while ensuring the safety of guests and 
+                    staff alike. From luxury hotels to bustling nightclubs, professional security creates an 
+                    environment where guests can relax and enjoy themselves with complete peace of mind.
                   </p>
                   <div class="blockquote">
                     <p>
-                      The world is a dangerous place to live; not because of
-                      the people who are evil, but because of the people who
-                      don't do anything about it.
+                      We don't watch. We anticipate. The most effective security doesn't just respond to
+                      incidents—it prevents them from happening in the first place.
                     </p>
-                    <small>by <cite>Albert Einstein</cite></small>
+                    <small>by <cite>Mascot Security Management Team</cite></small>
                   </div>
                   <p>
-                    The most happiest time of the day!. Praesent id dolor dui,
-                    dapibus gravida elit. Donec consequat laoreet sagittis.
-                    Suspendisse ultricies ultrices viverra. Morbi rhoncus
-                    laoreet tincidunt. Mauris interdum convallis metus.
-                    Suspendisse vel lacus est, sit amet tincidunt erat. Etiam
-                    purus sem, euismod eu vulputate eget, porta quis sapien.
-                    Donec tellus est, rhoncus vel scelerisque id, iaculis eu
-                    nibh.
+                    Hotels, bars, and nightclubs each present unique security challenges. In hotel environments, 
+                    security personnel must balance vigilance with hospitality, maintaining a welcoming atmosphere 
+                    while ensuring guest safety. Our hotel security services are designed to be discreet yet 
+                    effective, with officers trained to blend into the sophisticated environment while remaining 
+                    alert to potential issues.
                   </p>
                   <p>
-                    Donec posuere bibendum metus. Quisque gravida luctus
-                    volutpat. Mauris interdum, lectus in dapibus molestie,
-                    quam felis sollicitudin mauris, sit amet tempus velit
-                    lectus nec lorem. Nullam vel mollis neque. The most
-                    happiest time of the day!. Nullam vel enim dui. Cum sociis
-                    natoque penatibus et magnis dis parturient montes,
-                    nascetur ridiculus mus. Sed tincidunt accumsan massa id
-                    viverra. Sed sagittis, nisl sit amet imperdiet convallis,
-                    nunc tortor consequat tellus, vel molestie neque nulla non
-                    ligula. Proin tincidunt tellus ac porta volutpat. Cras
-                    mattis congue lacus id bibendum. Mauris ut sodales libero.
-                    Maecenas feugiat sit amet enim in accumsan.
+                    Nightclubs and bars, on the other hand, require a more visible security presence. Our doormen 
+                    and security teams are not just barriers to entry—they're the first impression guests have of 
+                    your establishment. That's why we train our teams in both security protocols and customer 
+                    service, ensuring they can manage crowds, prevent conflicts, and create a safe environment 
+                    without dampening the atmosphere that brings guests to your venue in the first place.
                   </p>
                   <p>
-                    Duis vestibulum quis quam vel accumsan. Nunc a vulputate
-                    lectus. Vestibulum eleifend nisl sed massa sagittis
-                    vestibulum. Vestibulum pretium blandit tellus, sodales
-                    volutpat sapien varius vel. Phasellus tristique cursus
-                    erat, a placerat tellus laoreet eget. Fusce vitae dui sit
-                    amet lacus rutrum convallis. Vivamus sit amet lectus
-                    venenatis est rhoncus interdum a vitae velit.
+                    What sets professional security apart is not just presence, but proactive vigilance. Our 
+                    security personnel are trained to anticipate potential issues before they escalate, from 
+                    identifying signs of intoxication to detecting suspicious behavior. This preventative approach 
+                    means fewer incidents, happier guests, and a stronger reputation for your establishment.
                   </p>
                 </div>
                 <div class="post-tags">
-                  <a href="#">Life</a>
-                  <a href="#">Sport</a>
-                  <a href="#">Tech</a>
-                  <a href="#">Travel</a>
+                  <a href="#">Hospitality</a>
+                  <a href="#">Security</a>
+                  <a href="#">Nightlife</a>
+                  <a href="#">Hotels</a>
                   <!--post-tags-->
                 </div>
                 <div class="comments" id="comments">
@@ -100,25 +82,18 @@
                       </div>
                       <div class="text">
                         <h5 class="name font_weight_700 comments-name">
-                          John Doe
+                          Hotel Operations Manager
                         </h5>
-                        <span class="comment_date">Posted at 15:32h, 06 December</span>
+                        <span class="comment_date">Posted at 10:15h, 15 April</span>
                         <a class="comment-reply-link" href="#">Reply</a>
                         <div class="text_holder">
                           <p class="comments-p">
-                            Lorem Ipsum is simply dummy text of the printing
-                            and typesetting industry. Lorem Ipsum has been the
-                            industry's standard dummy text ever since the
-                            1500s, when an unknown printer took a galley of
-                            type and scrambled it to make a type specimen
-                            book. It has survived not only five centuries, but
-                            also the leap into electronic typesetting,
-                            remaining essentially unchanged. It was
-                            popularised in the 1960s with the release of
-                            Letraset sheets containing Lorem Ipsum passages,
-                            and more recently with desktop publishing software
-                            like Aldus PageMaker including versions of Lorem
-                            Ipsum.
+                            We've been using Mascot Security for our hotel for the past six months, and the 
+                            difference in both safety and guest satisfaction is remarkable. Their team 
+                            understands the delicate balance between security and hospitality—our guests feel 
+                            protected without feeling watched. The proactive approach mentioned in this article 
+                            is exactly what sets professional security apart. Highly recommend their services to 
+                            any hospitality venue looking to enhance their security protocols.
                           </p>
                           <!--text_holder-->
                         </div>
@@ -130,43 +105,15 @@
                         </div>
                         <div class="text">
                           <h5 class="name font_weight_700 comments-name">
-                            John Doe
+                            Mascot Security Team
                           </h5>
-                          <span class="comment_date">Posted at 15:32h, 06 December</span>
+                          <span class="comment_date">Posted at 11:30h, 15 April</span>
                           <a class="comment-reply-link" href="#">Reply</a>
                           <div class="text_holder">
                             <p class="comments-p">
-                              It is a long established fact that a reader will
-                              be distracted by the readable content of a page
-                              when looking at its layout. The point of using
-                              Lorem Ipsum is that it has a more-or-less normal
-                            </p>
-                            <!--text_holder-->
-                          </div>
-                          <!--text-->
-                        </div>
-                        <!--comment-->
-                      </div>
-                      <div class="comment" id="comment-1-2">
-                        <div class="image">
-                          <img alt="" src="assets/images/review1.jpg" class="avatar" />
-                        </div>
-                        <div class="text">
-                          <h5 class="name font_weight_700 comments-name">
-                            John Doe
-                          </h5>
-                          <span class="comment_date">Posted at 15:32h, 06 December</span>
-                          <a class="comment-reply-link" href="#">Reply</a>
-                          <div class="text_holder">
-                            <p class="comments-p">
-                              There are many variations of passages of Lorem
-                              Ipsum available, but the majority have suffered
-                              alteration in some form, by injected humour, or
-                              randomised words which don't look even slightly
-                              believable. If you are going to use a passage of
-                              Lorem Ipsum, you need to be sure there isn't
-                              anything embarrassing hidden in the middle of
-                              text.
+                              Thank you for your kind words! We're delighted to hear that our security services 
+                              have made such a positive impact on your hotel operations and guest experience. 
+                              That balance between security and hospitality is exactly what we strive for.
                             </p>
                             <!--text_holder-->
                           </div>
@@ -182,19 +129,18 @@
                       </div>
                       <div class="text">
                         <h5 class="name font_weight_700 comments-name">
-                          John Doe
+                          Nightclub Owner
                         </h5>
-                        <span class="comment_date">Posted at 15:32h, 06 December</span>
+                        <span class="comment_date">Posted at 09:45h, 16 April</span>
                         <a class="comment-reply-link" href="#">Reply</a>
                         <div class="text_holder">
                           <p class="comments-p">
-                            The standard chunk of Lorem Ipsum used since the
-                            1500s is reproduced below for those interested.
-                            Sections 1.10.32 and 1.10.33 from "de Finibus
-                            Bonorum et Malorum" by Cicero are also reproduced
-                            in their exact original form, accompanied by
-                            English versions from the 1914 translation by H.
-                            Rackham.
+                            This article perfectly captures why we switched to Mascot Security last year. 
+                            Running a popular nightclub means security is paramount, but the wrong approach can 
+                            kill the vibe. Your team has mastered that balance—maintaining authority while 
+                            still being approachable. The de-escalation training your doormen receive has 
+                            noticeably reduced incidents, and my customers actually compliment the security 
+                            team now. That never happened before!
                           </p>
                           <!--text_holder-->
                         </div>
@@ -220,7 +166,7 @@
               <form id="widget-search-form-sidebar" class="form-inline">
                 <div class="input-group">
                   <input type="text" aria-required="true" name="q" class="form-control widget-search-form"
-                    placeholder="Search for pages..." />
+                    placeholder="Search for security services..." />
                   <div class="input-group-append">
                     <span class="input-group-btns">
                       <button type="submit" id="widget-widget-search-form-button" class="btn">
@@ -259,9 +205,9 @@
                         <a href="three-colum-sidbar.html"><img alt="" src="assets/images/side_post_img01.jpg"
                             class="img-fluid" /></a>
                         <div class="post-thumbnail-content">
-                          <a href="three-colum-sidbar.html">A true story, that never been told!</a>
-                          <span class="post-date"><span class="far fa-clock"></span> 6m ago</span>
-                          <span class="post-category"><span class="fa fa-tag"></span> Technology</span>
+                          <a href="three-colum-sidbar.html">5 Security Tips for Construction Sites</a>
+                          <span class="post-date"><span class="far fa-clock"></span> 2d ago</span>
+                          <span class="post-category"><span class="fa fa-tag"></span> Construction</span>
                           <!--post-thumbnail-content-->
                         </div>
                         <!--post-thumbnail-entry-->
@@ -270,9 +216,9 @@
                         <a href="three-colum-sidbar.html"><img alt="" src="assets/images/side_post_img02.jpg"
                             class="img-fluid" /></a>
                         <div class="post-thumbnail-content">
-                          <a href="three-colum-sidbar.html">Beautiful nature, and rare feathers!</a>
-                          <span class="post-date"><span class="far fa-clock"></span> 24h ago</span>
-                          <span class="post-category"><span class="fa fa-tag"></span> Lifestyle</span>
+                          <a href="three-colum-sidbar.html">The Role of Security in Corporate Reception</a>
+                          <span class="post-date"><span class="far fa-clock"></span> 5d ago</span>
+                          <span class="post-category"><span class="fa fa-tag"></span> Corporate</span>
                           <!--post-thumbnail-content-->
                         </div>
                         <!--post-thumbnail-entry-->
@@ -281,9 +227,9 @@
                         <a href="three-colum-sidbar.html"><img alt="" src="assets/images/side_post_img03.jpg"
                             class="img-fluid" /></a>
                         <div class="post-thumbnail-content">
-                          <a href="three-colum-sidbar.html">The most happiest time of the day!</a>
-                          <span class="post-date"><span class="far fa-clock"></span> 11h ago</span>
-                          <span class="post-category"><span class="fa fa-tag"></span> Lifestyle</span>
+                          <a href="three-colum-sidbar.html">CCTV Monitoring: 24/7 Protection</a>
+                          <span class="post-date"><span class="far fa-clock"></span> 1w ago</span>
+                          <span class="post-category"><span class="fa fa-tag"></span> Technology</span>
                           <!--post-thumbnail-content-->
                         </div>
                         <!--post-thumbnail-entry-->
@@ -297,9 +243,9 @@
                       <div class="post-thumbnail-entry">
                         <img data-aos="fade-up" alt="" src="assets/image/side_post_img03.html" />
                         <div class="post-thumbnail-content">
-                          <a href="#">Beautiful nature, and rare feathers!</a>
-                          <span class="post-date"><span class="far fa-clock"></span> 24h ago</span>
-                          <span class="post-category"><span class="fa fa-tag"></span> Lifestyle</span>
+                          <a href="#">Event Security Planning for Summer Festivals</a>
+                          <span class="post-date"><span class="far fa-clock"></span> 3d ago</span>
+                          <span class="post-category"><span class="fa fa-tag"></span> Events</span>
                           <!--post-thumbnail-content-->
                         </div>
                         <!--post-thumbnail-entry-->
@@ -307,9 +253,9 @@
                       <div class="post-thumbnail-entry">
                         <img data-aos="fade-up" alt="" src="assets/image/side_post_img02.html" />
                         <div class="post-thumbnail-content">
-                          <a href="#">The most happiest time of the day!</a>
-                          <span class="post-date"><span class="far fa-clock"></span> 11h ago</span>
-                          <span class="post-category"><span class="fa fa-tag"></span> Lifestyle</span>
+                          <a href="#">Our SIA Certification Journey</a>
+                          <span class="post-date"><span class="far fa-clock"></span> 1w ago</span>
+                          <span class="post-category"><span class="fa fa-tag"></span> Company</span>
                           <!--post-thumbnail-content-->
                         </div>
                         <!--post-thumbnail-entry-->
@@ -317,9 +263,9 @@
                       <div class="post-thumbnail-entry">
                         <img data-aos="fade-up" alt="" src="assets/image/side_post_img01.html" />
                         <div class="post-thumbnail-content">
-                          <a href="#">New costs and rise of the economy!</a>
-                          <span class="post-date"><span class="far fa-clock"></span> 11h ago</span>
-                          <span class="post-category"><span class="fa fa-tag"></span> Lifestyle</span>
+                          <a href="#">Security and Customer Service: Finding the Balance</a>
+                          <span class="post-date"><span class="far fa-clock"></span> 2w ago</span>
+                          <span class="post-category"><span class="fa fa-tag"></span> Training</span>
                           <!--post-thumbnail-content-->
                         </div>
                         <!--post-thumbnail-entry-->
@@ -333,9 +279,9 @@
                       <div class="post-thumbnail-entry">
                         <img data-aos="fade-up" alt="" src="assets/image/side_post_img02.html" />
                         <div class="post-thumbnail-content">
-                          <a href="#">The most happiest time of the day!</a>
-                          <span class="post-date"><span class="far fa-clock"></span> 11h ago</span>
-                          <span class="post-category"><span class="fa fa-tag"></span> Lifestyle</span>
+                          <a href="#">The Importance of Professional Security in Hospitality Venues</a>
+                          <span class="post-date"><span class="far fa-clock"></span> 1d ago</span>
+                          <span class="post-category"><span class="fa fa-tag"></span> Hospitality</span>
                           <!--post-thumbnail-content-->
                         </div>
                         <!--post-thumbnail-entry-->
@@ -343,9 +289,9 @@
                       <div class="post-thumbnail-entry">
                         <img data-aos="fade-up" alt="" src="assets/image/side_post_img01.html" />
                         <div class="post-thumbnail-content">
-                          <a href="#">New costs and rise of the economy!</a>
-                          <span class="post-date"><span class="far fa-clock"></span> 11h ago</span>
-                          <span class="post-category"><span class="fa fa-tag"></span> Lifestyle</span>
+                          <a href="#">5 Security Tips for Construction Sites</a>
+                          <span class="post-date"><span class="far fa-clock"></span> 2d ago</span>
+                          <span class="post-category"><span class="fa fa-tag"></span> Construction</span>
                           <!--post-thumbnail-content-->
                         </div>
                         <!--post-thumbnail-entry-->
@@ -353,9 +299,9 @@
                       <div class="post-thumbnail-entry">
                         <img data-aos="fade-up" alt="" src="assets/image/side_post_img03.html" />
                         <div class="post-thumbnail-content">
-                          <a href="#">Beautiful nature, and rare feathers!</a>
-                          <span class="post-date"><span class="far fa-clock"></span> 24h ago</span>
-                          <span class="post-category"><span class="fa fa-tag"></span> Lifestyle</span>
+                          <a href="#">Meet Our New Control Room Team</a>
+                          <span class="post-date"><span class="far fa-clock"></span> 3d ago</span>
+                          <span class="post-category"><span class="fa fa-tag"></span> Company</span>
                           <!--post-thumbnail-content-->
                         </div>
                         <!--post-thumbnail-entry-->
@@ -374,63 +320,61 @@
               <div class="widget-title font_weight_600">Categories</div>
               <ul>
                 <li class="cat-item">
-                  <a href="#">Coupons</a>
-                  <span class="cat-count-span">(2)</span>
+                  <a href="#">Events</a>
+                  <span class="cat-count-span">(8)</span>
                 </li>
                 <li class="cat-item">
-                  <a href="#">Coupons</a>
-                  <span class="cat-count-span">(10)</span>
+                  <a href="#">Hotel Security</a>
+                  <span class="cat-count-span">(12)</span>
                 </li>
                 <li class="cat-item">
-                  <a href="#">Coupons</a>
+                  <a href="#">Construction</a>
                   <span class="cat-count-span">(7)</span>
                 </li>
                 <li class="cat-item">
-                  <a href="#">Coupons</a>
-                  <span class="cat-count-span">(3)</span>
+                  <a href="#">Corporate</a>
+                  <span class="cat-count-span">(5)</span>
                 </li>
                 <li class="cat-item">
-                  <a href="#">Coupons</a>
+                  <a href="#">Nightlife</a>
                   <span class="cat-count-span">(9)</span>
                 </li>
                 <li class="cat-item">
-                  <a href="#">Coupons</a>
+                  <a href="#">Company News</a>
+                  <span class="cat-count-span">(4)</span>
+                </li>
+                <li class="cat-item">
+                  <a href="#">CCTV</a>
+                  <span class="cat-count-span">(6)</span>
+                </li>
+                <li class="cat-item">
+                  <a href="#">Training</a>
+                  <span class="cat-count-span">(3)</span>
+                </li>
+                <li class="cat-item">
+                  <a href="#">SIA Updates</a>
                   <span class="cat-count-span">(2)</span>
                 </li>
                 <li class="cat-item">
-                  <a href="#">Coupons</a>
-                  <span class="cat-count-span">(10)</span>
-                </li>
-                <li class="cat-item">
-                  <a href="#">Coupons</a>
-                  <span class="cat-count-span">(7)</span>
-                </li>
-                <li class="cat-item">
-                  <a href="#">Coupons</a>
-                  <span class="cat-count-span">(3)</span>
-                </li>
-                <li class="cat-item">
-                  <a href="#">Coupons</a>
-                  <span class="cat-count-span">(9)</span>
+                  <a href="#">Security Tips</a>
+                  <span class="cat-count-span">(11)</span>
                 </li>
               </ul>
             </div>
             <div class="widget widget-tweeter">
-              <h4 class="widget-title font_weight_600">Recent Tweets</h4>
+              <h4 class="widget-title font_weight_600">Recent Updates</h4>
               <div id="twitter-cnt">
                 <ul>
                   <li>
-                    Rule number 1: Don't overthink it
-                    <a href="#" target="_blank" title="Visit this link">https://t.co/T9Vg7b9XuI</a>
-                    <small>Sep/12/2019</small>
+                    Proud to announce our new 24/7 Control Room is now fully operational! #SecurityExcellence
+                    <a href="#" target="_blank" title="Visit this link">https://t.co/MascotSecurity</a>
+                    <small>Apr/15/2025</small>
                   </li>
                   <li>
-                    Smart OR Stylish? How do you balance design principles
-                    with design trends?
-                    <a href="#" target="_blank" title="Visit this link">https://t.co/yBb0HKiksq</a>
-                    <a href="https://t.co/kR5EhraUuK" target="_blank"
-                      title="Visit this link">https://t.co/kR5EhraUuK</a>
-                    <small>Sep/10/2019</small>
+                    Our team is at the Manchester Security Expo this week. Come meet us at Booth 42! #SecurityExpo
+                    <a href="#" target="_blank" title="Visit this link">https://t.co/SecurityExpo</a>
+                    <a href="#" target="_blank" title="Visit this link">https://t.co/MascotTeam</a>
+                    <small>Apr/10/2025</small>
                   </li>
                 </ul>
                 <!--twitter-cnt-->
@@ -440,16 +384,16 @@
             <div class="widget widget-tags">
               <h4 class="widget-title font_weight_600">Tags</h4>
               <div class="tags">
-                <a href="#">Design</a>
-                <a href="#">Portfolio</a>
-                <a href="#">Digital</a>
-                <a href="#">Branding</a>
-                <a href="#">HTML</a>
-                <a href="#">Clean</a>
-                <a href="#">Peace</a>
-                <a href="#">Love</a>
-                <a href="#">CSS3</a>
-                <a href="#">jQuery</a>
+                <a href="#">Security</a>
+                <a href="#">SIA</a>
+                <a href="#">Events</a>
+                <a href="#">Hotel</a>
+                <a href="#">Construction</a>
+                <a href="#">CCTV</a>
+                <a href="#">Manchester</a>
+                <a href="#">Professional</a>
+                <a href="#">Training</a>
+                <a href="#">Protection</a>
                 <!--tags-->
               </div>
               <!--widget-->
