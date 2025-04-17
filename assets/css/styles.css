@@ -1464,6 +1464,7 @@ color: var(--e-global-color-about-teams-red);
   position: absolute;
   left: -8px;
   top: -261px;
+  display: block !important;
 }
 .footer-section .contact-address{
   padding-top: 4px;
