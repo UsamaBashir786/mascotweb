@@ -23,20 +23,20 @@ body {
 }
 :root {
   --e-global-color-white: #ffffff;
-  --e-global-color-red: #c12e2f;
-  --e-global-color-btn-red: #f43334;
+  --e-global-color-red: #1D4E89;
+  --e-global-color-btn-red: #1D4E89;
   --e-global-color-white-banner-text: #fffefe;
   --e-global-color-grey-icons: #999999;
   --e-global-color-yellow-buttons: #eb9500;
   --e-global-color-primary: #161616;
   --e-global-color-card-text: #585858;
-  --e-global-color-red-border: #ca2f30;
-  --e-global-color-red-active: #cd3030;
+  --e-global-color-red-border: #1D4E89;
+  --e-global-color-red-active: #1D4E89;
   --e-global-color-dark-icons-background: #202020;
   --e-global-color-dark-marron: #4a2424;
   --e-global-color-black-cards-bacground: #191919;
   --e-global-color-grey-cyber-box: #777777;
-  --e-global-color-about-teams-red: #ad2d2d;
+  --e-global-color-about-teams-red: #1D4E89;
   --e-global-color-about-teams-background: #101010;
   --e-global-color-stars: #666666;
   --e-global-color-form-text: #898989;

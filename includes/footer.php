@@ -4,7 +4,7 @@
 <!-- Footer -->
 <div class="footer-section">
   <div class="about-right-icon">
-    <figure class="footer-icon"><img src="assets/images/footer-left.png" alt="" class="img-fluid">
+    <!-- <figure class="footer-icon"><img src="assets/images/footer-left.png" alt="" class="img-fluid"> -->
     </figure>
   </div>
   <div class="footer-outer-margin" data-aos="fade-up">
