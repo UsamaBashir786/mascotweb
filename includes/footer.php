@@ -158,6 +158,18 @@
                       Blackett Street,
                       Manchester, M12 6AE</a></div>
                 </li>
+                <li class="list-item position-reletive addres-list icon-list1">
+                  <div class="contact-number"><a href="tel:07517609432"
+                      class="text-decoration-none footer-link-p ml-0"><span
+                        class="footer-additional">Phone: </span> 07517 609432</a></div>
+                </li>
+                <li class="list-item position-reletive addres-list icon-list1">
+                  <div class="contact-number">
+                    <span class="text-decoration-none footer-link-p ml-0"><span
+                        class="footer-additional">Hours: </span> 24/7 Security Service Available</span>
+                  </div>
+                </li>
+
               </ul>
             </div>
           </div>
@@ -170,7 +182,7 @@
       <div class="row">
         <div class="footer-bar-content w-100 overflow-hidden">
           <p class="text-size-16 mb-0">
-            Copyright ©2025 Mascot Security LTD. All Rights Reserved.
+            Copyright ©2025 Mascot Security LTD. All Rights Reserved. Company Number: 16321401
           </p>
         </div>
       </div>
