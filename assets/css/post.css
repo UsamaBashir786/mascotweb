@@ -1,6 +1,6 @@
 body {
-  background-color: #1a1a1a;
-  color: #fff;
+  background-color: var(--e-global-color-primary);
+  color: var(--e-global-color-white);
   font-family: Arial, sans-serif;
 }
 
@@ -26,7 +26,7 @@ body {
 
 .post-item-description h2 {
   margin-bottom: 10px;
-  color: #ff4500; /* Matches the accent color from the image */
+  color: var(--e-global-color-red); /* Accent color */
 }
 
 .post-meta {
@@ -34,41 +34,41 @@ body {
 }
 
 .post-meta span {
-  color: #ff4500;
+  color: var(--e-global-color-red);
   margin-right: 10px;
 }
 
 .blockquote {
-  border-left: 4px solid #ff4500;
+  border-left: 4px solid var(--e-global-color-red);
   padding-left: 15px;
   margin: 20px 0;
-  color: #ccc;
+  color: var(--e-global-color-grey-cyber-box);
 }
 
 .blockquote small {
-  color: #999;
+  color: var(--e-global-color-grey-icons);
 }
 
 .post-tags a {
   display: inline-block;
   padding: 5px 10px;
   margin: 0 5px 5px 0;
-  background: #333;
-  color: #fff;
+  background: var(--e-global-color-dark-icons-background);
+  color: var(--e-global-color-white);
   text-decoration: none;
 }
 
 /* Comments Section */
 .comments {
   margin-top: 40px;
-  border-top: 1px solid #333; /* Consistent border color */
+  border-top: 1px solid var(--e-global-color-dark-icons-background); /* Consistent border color */
   padding-top: 40px;
 }
 
 .comment_number {
   font-size: 18px;
   margin-bottom: 30px;
-  color: #ff4500;
+  color: var(--e-global-color-red);
   font-weight: 600;
 }
 
@@ -101,21 +101,21 @@ body {
 
 .comments-name {
   font-size: 16px;
-  color: #ff4500;
+  color: var(--e-global-color-red);
   font-weight: 600;
   margin-bottom: 5px;
 }
 
 .comment_date {
   font-size: 12px;
-  color: #888;
+  color: var(--e-global-color-grey-icons);
   display: inline-block;
   margin-right: 15px;
 }
 
 .comment-reply-link {
   font-size: 12px;
-  color: #ff4500;
+  color: var(--e-global-color-red);
   text-decoration: none;
 }
 
@@ -124,7 +124,7 @@ body {
 }
 
 .comments-p {
-  color: #ccc; /* Matches text color for consistency */
+  color: var(--e-global-color-grey-cyber-box); /* Matches text color for consistency */
   font-size: 14px;
   line-height: 24px;
   margin: 10px 0;
@@ -142,28 +142,28 @@ body {
 
 /* Widgets */
 .widget {
-  background: #252525;
+  background: var(--e-global-color-dark-marron);
   padding: 20px;
   margin-bottom: 20px;
-  border: 1px solid #333;
+  border: 1px solid var(--e-global-color-dark-icons-background);
 }
 
 .widget-title {
   font-size: 18px;
   margin-bottom: 15px;
-  color: #ff4500;
+  color: var(--e-global-color-red);
 }
 
 .widget-newsletter .form-control {
-  background: #333;
-  border: 1px solid #444;
-  color: #fff;
+  background: var(--e-global-color-dark-icons-background);
+  border: 1px solid var(--e-global-color-grey-cyber-box);
+  color: var(--e-global-color-white);
 }
 
 .widget-newsletter .btn {
-  background: #ff4500;
+  background: var(--e-global-color-btn-red);
   border: none;
-  color: #fff;
+  color: var(--e-global-color-white);
 }
 
 .widget-categories ul {
@@ -176,12 +176,12 @@ body {
 }
 
 .widget-categories a {
-  color: #fff;
+  color: var(--e-global-color-white);
   text-decoration: none;
 }
 
 .widget-categories .cat-count-span {
-  color: #999;
+  color: var(--e-global-color-grey-icons);
 }
 
 .widget-tweeter ul {
@@ -194,33 +194,33 @@ body {
 }
 
 .widget-tweeter a {
-  color: #ff4500;
+  color: var(--e-global-color-red);
   text-decoration: none;
 }
 
 .widget-tweeter small {
-  color: #999;
+  color: var(--e-global-color-grey-icons);
 }
 
 .tags a {
   display: inline-block;
   padding: 5px 10px;
   margin: 0 5px 5px 0;
-  background: #333;
-  color: #fff;
+  background: var(--e-global-color-dark-icons-background);
+  color: var(--e-global-color-white);
   text-decoration: none;
 }
 
 #tabs-posts .nav-link {
-  color: #fff;
-  background: #333;
+  color: var(--e-global-color-white);
+  background: var(--e-global-color-dark-icons-background);
   border: none;
   margin-right: 5px;
 }
 
 #tabs-posts .nav-link.active {
-  background: #ff4500;
-  color: #fff;
+  background: var(--e-global-color-btn-red);
+  color: var(--e-global-color-white);
 }
 
 .post-thumbnail-entry {
@@ -233,12 +233,12 @@ body {
 }
 
 .post-thumbnail-content a {
-  color: #fff;
+  color: var(--e-global-color-white);
   text-decoration: none;
 }
 
 .post-thumbnail-content span {
-  color: #999;
+  color: var(--e-global-color-grey-icons);
   font-size: 12px;
 }
 

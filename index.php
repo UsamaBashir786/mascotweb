@@ -150,7 +150,7 @@
                         <h4>Security Services</h4>
                         <p class="security-services-p">Donec pede justo, fringilla vel, aliquet nec vulputate
                             eget, arcu. In enim justo, rhoncus ut imperdiet.</p>
-                        <a href="about.html" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
+                        <a href="about.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
                                     class="fa fa-angle-right"></i></span></a>
                     </div>
                 </div>
@@ -164,7 +164,7 @@
                         <h4>Data Privacy</h4>
                         <p class="security-services-p">Lorem ipsum dolor sit ametconsectetuer dipiscing
                             elitaenean commodo ligula eget dolor aenean massa.</p>
-                        <a href="about.html" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
+                        <a href="about.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
                                     class="fa fa-angle-right"></i></span></a>
                     </div>
                 </div>
@@ -178,7 +178,7 @@
                         <h4>Industry Certified</h4>
                         <p class="security-services-p">Integer tincidunt Cras dapibus bivamus ele mentum semper
                             nisienean vulputate eleife nd tellusenean leo ligula.</p>
-                        <a href="about.html" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
+                        <a href="about.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
                                     class="fa fa-angle-right"></i></span></a>
                     </div>
                 </div>
@@ -207,7 +207,7 @@
                         <p class="security-services-p cyber-p-margin-bottom">Vamus elementum semper nisi aenean
                             vulputate eleife nd tellus onsec tet ueradip.</p>
                         <div class="cyber-contact-btn">
-                            <a href="contact.html" class="text-decoration-none">Contact Us</a>
+                            <a href="contact.php" class="text-decoration-none">Contact Us</a>
                         </div>
                     </div>
                 </div>
@@ -280,7 +280,7 @@
                         <p class="security-services-p cyber-p-margin-bottom">Vamus elementum semper nisi aenean
                             vulputate eleife nd tellus onsec tet ueradip.</p>
                         <div class="cyber-contact-btn">
-                            <a href="contact.html" class="text-decoration-none">Contact Us</a>
+                            <a href="contact.php" class="text-decoration-none">Contact Us</a>
                         </div>
                     </div>
                 </div>
@@ -318,7 +318,7 @@
                         <h4>Threat Intelligence</h4>
                         <p class="security-services-p">Donec pede justo, fringilla vel, aliquet nec vulputate
                             eget, arcu. In enim justo, rhoncus ut imperdiet.</p>
-                        <a href="about.html" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
+                        <a href="about.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
                                     class="fa fa-angle-right"></i></span></a>
                     </div>
                 </div>
@@ -331,7 +331,7 @@
                         <h4>Security Assessment</h4>
                         <p class="security-services-p">Donec pede justo, fringilla vel, aliquet nec vulputate
                             eget, arcu. In enim justo, rhoncus ut imperdiet.</p>
-                        <a href="about.html" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
+                        <a href="about.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
                                     class="fa fa-angle-right"></i></span></a>
                     </div>
                 </div>
@@ -344,7 +344,7 @@
                         <h4>Compromise Assessment</h4>
                         <p class="security-services-p">Donec pede justo, fringilla vel, aliquet nec vulputate
                             eget, arcu. In enim justo, rhoncus ut imperdiet.</p>
-                        <a href="about.html" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
+                        <a href="about.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
                                     class="fa fa-angle-right"></i></span></a>
                     </div>
                 </div>
@@ -359,7 +359,7 @@
                         <h4>Incident Response</h4>
                         <p class="security-services-p">Donec pede justo, fringilla vel, aliquet nec vulputate
                             eget, arcu. In enim justo, rhoncus ut imperdiet.</p>
-                        <a href="about.html" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
+                        <a href="about.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
                                     class="fa fa-angle-right"></i></span></a>
                     </div>
                 </div>
@@ -372,7 +372,7 @@
                         <h4>Security Training</h4>
                         <p class="security-services-p">Donec pede justo, fringilla vel, aliquet nec vulputate
                             eget, arcu. In enim justo, rhoncus ut imperdiet.</p>
-                        <a href="about.html" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
+                        <a href="about.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
                                     class="fa fa-angle-right"></i></span></a>
                     </div>
                 </div>
@@ -385,7 +385,7 @@
                         <h4>CLoud Security</h4>
                         <p class="security-services-p">Donec pede justo, fringilla vel, aliquet nec vulputate
                             eget, arcu. In enim justo, rhoncus ut imperdiet.</p>
-                        <a href="about.html" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
+                        <a href="about.php" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
                                     class="fa fa-angle-right"></i></span></a>
                     </div>
                 </div>
@@ -538,7 +538,7 @@
                             Scan Every 12 Hrs
                             Configure Software One-time</p>
                         <div class="order-now-btn">
-                            <a href="pricing.html" class="text-decoration-none ">Order Now</a>
+                            <a href="pricing.php" class="text-decoration-none ">Order Now</a>
                         </div>
                     </div>
                 </div>
@@ -557,7 +557,7 @@
                             Scan Every 13 Hrs
                             Configure Software One-time</p>
                         <div class="order-now-btn">
-                            <a href="pricing.html" class="text-decoration-none ">Order Now</a>
+                            <a href="pricing.php" class="text-decoration-none ">Order Now</a>
                         </div>
                     </div>
                 </div>
@@ -576,7 +576,7 @@
                             Scan Every 14 Hrs
                             Configure Software Life-time</p>
                         <div class="order-now-btn">
-                            <a href="pricing.html" class="text-decoration-none ">Order Now</a>
+                            <a href="pricing.php" class="text-decoration-none ">Order Now</a>
                         </div>
                     </div>
                 </div>
@@ -692,7 +692,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="blogs-section">
-                        <a href="single-post.html">
+                        <a href="blog-details.php">
                             <div class="images-blog" data-aos="fade-up">
                                 <figure class="mb-0"><img class="img-fluid" src="assets/images/blog-section-img1.png" alt="">
                                 </figure>
@@ -705,7 +705,7 @@
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="blogs-section">
-                        <a href="single-post.html">
+                        <a href="blog-details.php">
                             <div class="images-blog" data-aos="fade-up">
                                 <figure class="mb-0"><img class="img-fluid" src="assets/images/blog-section-img2.png" alt="">
                                 </figure>
@@ -719,7 +719,7 @@
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="blogs-section">
-                        <a href="single-post.html">
+                        <a href="blog-details.php">
                             <div class="images-blog" data-aos="fade-up">
                                 <figure class="mb-0"><img class="img-fluid" src="assets/images/blog-section-img3.png" alt="">
                                 </figure>

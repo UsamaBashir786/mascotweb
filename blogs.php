@@ -5,8 +5,8 @@
   <?php include 'includes/head.php'; ?>
   <style>
     body {
-      background-color: #1a1a1a;
-      color: #fff;
+      background-color: var(--e-global-color-primary);
+      color: var(--e-global-color-white);
       font-family: Arial, sans-serif;
     }
 
@@ -21,8 +21,8 @@
     }
 
     .post-item {
-      background: #252525;
-      border: 1px solid #333;
+      background: var(--e-global-color-dark-icons-background);
+      border: 1px solid var(--e-global-color-black-cards-bacground);
       border-radius: 5px;
       overflow: hidden;
       transition: box-shadow 0.3s ease;
@@ -47,8 +47,8 @@
       position: absolute;
       top: 10px;
       left: 10px;
-      background: #ff4500;
-      color: #fff;
+      background: var(--e-global-color-btn-red);
+      color: var(--e-global-color-white);
       padding: 5px 10px;
       border-radius: 3px;
       font-size: 12px;
@@ -60,13 +60,13 @@
 
     .post-meta-date,
     .post-meta-comments {
-      color: #999;
+      color: var(--e-global-color-grey-icons);
       font-size: 12px;
       margin-right: 10px;
     }
 
     .post-meta-comments a {
-      color: #ff4500;
+      color: var(--e-global-color-btn-red);
       text-decoration: none;
     }
 
@@ -76,22 +76,22 @@
     }
 
     .post-item-description h2 a {
-      color: #fff;
+      color: var(--e-global-color-white);
       text-decoration: none;
     }
 
     .post-item-description h2 a:hover {
-      color: #ff4500;
+      color: var(--e-global-color-btn-red);
     }
 
     .post-item-description p {
-      color: #ccc;
+      color: var(--e-global-color-grey-cyber-box);
       font-size: 14px;
       margin-bottom: 15px;
     }
 
     .item-link {
-      color: #ff4500;
+      color: var(--e-global-color-btn-red);
       font-size: 14px;
       text-decoration: none;
     }
@@ -138,7 +138,7 @@
       bottom: 10px;
       left: 10px;
       width: 80%;
-      background: #333;
+      background: var(--e-global-color-dark-icons-background);
       border: none;
     }
 
@@ -159,21 +159,6 @@
       height: 100%;
     }
 
-    .fluid-width-video-wrapper {
-      position: relative;
-      padding-bottom: 56.25%;
-      height: 0;
-      overflow: hidden;
-    }
-
-    .fluid-width-video-wrapper iframe {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-    }
-
     /* Sidebar Styling */
     .sticky-sidebar {
       position: sticky;
@@ -186,32 +171,32 @@
     }
 
     .widget {
-      background: #252525;
+      background: var(--e-global-color-dark-icons-background);
       padding: 20px;
       margin-bottom: 20px;
-      border: 1px solid #333;
+      border: 1px solid var(--e-global-color-black-cards-bacground);
       border-radius: 5px;
     }
 
     .widget-title {
       font-size: 18px;
       margin-bottom: 15px;
-      color: #ff4500;
+      color: var(--e-global-color-btn-red);
       font-weight: 600;
     }
 
     .widget-newsletter .form-control {
-      background: #333;
-      border: 1px solid #444;
-      color: #fff;
+      background: var(--e-global-color-dark-icons-background);
+      border: 1px solid var(--e-global-color-grey-cyber-box);
+      color: var(--e-global-color-white);
       width: 100%;
       margin-bottom: 10px;
     }
 
     .widget-newsletter .btn {
-      background: #ff4500;
+      background: var(--e-global-color-btn-red);
       border: none;
-      color: #fff;
+      color: var(--e-global-color-white);
       width: 100%;
     }
 
@@ -225,12 +210,12 @@
     }
 
     .widget-categories a {
-      color: #fff;
+      color: var(--e-global-color-white);
       text-decoration: none;
     }
 
     .widget-categories .cat-count-span {
-      color: #999;
+      color: var(--e-global-color-grey-icons);
       float: right;
     }
 
@@ -244,12 +229,12 @@
     }
 
     .widget-tweeter a {
-      color: #ff4500;
+      color: var(--e-global-color-btn-red);
       text-decoration: none;
     }
 
     .widget-tweeter small {
-      color: #999;
+      color: var(--e-global-color-grey-icons);
       display: block;
     }
 
@@ -257,15 +242,15 @@
       display: inline-block;
       padding: 5px 10px;
       margin: 0 5px 5px 0;
-      background: #333;
-      color: #fff;
+      background: var(--e-global-color-dark-icons-background);
+      color: var(--e-global-color-white);
       text-decoration: none;
       border-radius: 3px;
     }
 
     #tabs-posts .nav-link {
-      color: #fff;
-      background: #333;
+      color: var(--e-global-color-white);
+      background: var(--e-global-color-dark-icons-background);
       border: none;
       margin-right: 5px;
       padding: 10px;
@@ -273,55 +258,8 @@
     }
 
     #tabs-posts .nav-link.active {
-      background: #ff4500;
-      color: #fff;
-    }
-
-    .post-thumbnail-entry {
-      margin-bottom: 15px;
-    }
-
-    .post-thumbnail-entry img {
-      width: 100%;
-      height: auto;
-    }
-
-    .post-thumbnail-content a {
-      color: #fff;
-      text-decoration: none;
-    }
-
-    .post-thumbnail-content span {
-      color: #999;
-      font-size: 12px;
-    }
-
-    /* Responsive Styles */
-    @media (max-width: 991px) {
-      .col-xl-4 {
-        flex: 0 0 50%;
-        max-width: 50%;
-      }
-
-      .sticky-sidebar {
-        position: relative;
-        top: 0;
-      }
-    }
-
-    @media (max-width: 767px) {
-      .col-xl-4 {
-        flex: 0 0 100%;
-        max-width: 100%;
-      }
-
-      .post-item-description {
-        padding: 15px;
-      }
-
-      .post-audio audio {
-        width: 90%;
-      }
+      background: var(--e-global-color-btn-red);
+      color: var(--e-global-color-white);
     }
   </style>
 </head>
