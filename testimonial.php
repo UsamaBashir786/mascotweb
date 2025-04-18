@@ -7,10 +7,8 @@
 
 </head>
 <body>
-    <!-- HEADER-SECTION -->
     <?php include 'includes/header.php'; ?>
 
-<!-- Client_Testimonials_section -->
 <div class="clients-section services-clients-section clients-testimonial-page overflow-hidden">
         <div class="about-right-icon position-relative">
             <figure class="whyus-icon"><img src="assets/images/about-us-section-right-icon.png" alt="" class="img-fluid">
@@ -56,7 +54,6 @@
                 </div>
                
             </div>
-            <!-- row2 -->
              <div class="clients-row2 position-relative" data-aos="fade-up">
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-12">
@@ -98,7 +95,6 @@
                    
                 </div>
              </div>
-            <!-- row3 -->
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-12">
                    <div class="clients-outer-box  position-relative" data-aos="fade-up">
@@ -144,7 +140,6 @@
         </div>
     </div>
 
-    <!-- Contact-Form-Section -->
     <section class="blogs-section-starts form-section-starts form-testimonial-page overflow-hidden">
         <div class="container">
             <div class="row">
@@ -169,7 +164,6 @@
         </div>
     </section>
 
-       <!-- Footer-Section -->
        <?php include('includes/footer.php'); ?>
       <?php include('includes/js-link.php'); ?>
 </body>

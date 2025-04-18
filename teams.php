@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="zxx">
 
 
@@ -8,9 +8,7 @@
 </head>
 
 <body>
-    <!-- HEADER-SECTION -->
     <?php include 'includes/header.php'; ?>
-<!-- SECURITY-TEAM-SECTION -->
 <section class="about-us-section-start about-teams-section about-page-teams teams-page">
         <div class="container">
             <div class="row">
@@ -90,7 +88,6 @@
                     </div>
                 </div>
             </div>
-            <!-- row2 -->
             <div class="teams-section2">
                 <div class="about-right-icon position-relative">
                     <figure class="whyus-icon"><img src="assets/images/about-us-section-right-icon.png" alt=""
@@ -176,7 +173,6 @@
             </div>
         </div>
     </section>
-    <!-- Contact-Form-Section -->
     <section class="blogs-section-starts form-section-starts teams-form-section overflow-hidden">
         <div class="container">
             <div class="row">
@@ -200,9 +196,20 @@
             </div>
         </div>
     </section>
-  <!-- Footer-Section -->
     <?php include('includes/footer.php'); ?>
     <?php include('includes/js-link.php'); ?>
 
+</body>
+</html> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  Under Progress
+  <a href="index.php"></a>
 </body>
 </html>
