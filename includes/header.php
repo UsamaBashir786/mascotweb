@@ -22,7 +22,7 @@
               <li class="nav-item">
                 <a class="nav-link text-decoration-none navbar-text-color" href="services.php">Services</a>
               </li>
-              <li class="nav-item dropdown redlight-dropdown">
+              <!-- <li class="nav-item dropdown redlight-dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
                 <div class="dropdown-menu dropdown-content-redlight">
                   <ul class="list-unstyled">
@@ -31,10 +31,10 @@
                     <li class="nav-item"> <a class="dropdown-item nav-link" href="testimonial.php">Testimonials</a></li>
                   </ul>
                 </div>
-              </li>
-              <li class="nav-item dropdown redlight-dropdown">
+              </li> -->
+              <!-- <li class="nav-item dropdown redlight-dropdown">
                 <a class="nav-link" href="blogs.php">Blogs</a>
-              </li>
+              </li> -->
               <li class="nav-item navbar-text-color"><a class="nav-link text-decoration-none contact-us-margin navbar-text-color" href="pricing.php">Pricing</a></li>
             </ul>
             <div class="btn-talk ml-auto">
