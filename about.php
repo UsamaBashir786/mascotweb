@@ -103,14 +103,13 @@
   <!-- WHY-CHOOSE-US_SECTION -->
   <section class="about-us-section-start aboutus-page">
     <div class="about-right-icon position-relative">
-      <figure class="whyus-icon"><img src="assets/images/about-us-section-right-icon.png" alt=""
-          class="img-fluid">
+      <figure class="whyus-icon"><img src="assets/images/about-us-section-right-icon.png" alt="" class="img-fluid">
       </figure>
     </div>
     <div class="container">
       <div class="row">
         <div class="col-12">
-          <h3 class="text-center">Why Choose Us</h3>
+          <h3 class="text-center">Why Choose Mascot Security?</h3>
           <p class="text-center">We provide professional security services with exceptional standards and reliability.</p>
         </div>
       </div>
@@ -118,25 +117,23 @@
         <div class="col-lg-4 col-md-4 col-sm-12">
           <div class="about-us-content" data-aos="fade-up">
             <div class="icons-rounded-box">
-              <figure class="mb-0"><img src="assets/images/about-round-icon1.png" alt="">
+              <figure class="mb-0"><img src="assets/images/about-round-icon2.png" alt="">
               </figure>
             </div>
-            <h4>Professional & Approachable</h4>
-            <p class="security-services-p">We balance a strong security presence with exceptional customer service. Our officers ensure safety while maintaining a welcoming atmosphere for employees, guests, and customers.</p>
-            <a href="services.html" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
-                  class="fa fa-angle-right"></i></span></a>
+            <h4>SIA-Approved & Fully Licensed</h4>
+            <p class="security-services-p">Our security officers are certified by the Security Industry Authority (SIA), ensuring full compliance with UK regulations and industry best practices. You can trust us to provide professional, legally compliant security services.</p>
+            <a href="services.html" class="text-decoration-none">Learn More <span class="forword-arrow"><i class="fa fa-angle-right"></i></span></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12">
           <div class="about-us-content" data-aos="fade-up">
             <div class="icons-rounded-box">
-              <figure class="mb-0 icon-color"><img src="assets/images/about-round-icon2.png" alt="">
+              <figure class="mb-0 icon-color"><img src="assets/images/about-round-icon1.png" alt="">
               </figure>
             </div>
-            <h4>SIA-Approved & Licensed</h4>
-            <p class="security-services-p">Our security officers are certified by the Security Industry Authority (SIA), ensuring full compliance with UK regulations and industry best practices.</p>
-            <a href="services.html" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
-                  class="fa fa-angle-right"></i></span></a>
+            <h4>Elite Training & Expertise</h4>
+            <p class="security-services-p">Every team member undergoes rigorous training in conflict resolution, emergency response, and advanced security protocols. With industry-leading expertise, we ensure unmatched protection for your business, staff, and assets.</p>
+            <a href="services.html" class="text-decoration-none">Learn More <span class="forword-arrow"><i class="fa fa-angle-right"></i></span></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12">
@@ -145,16 +142,76 @@
               <figure class="mb-0"><img src="assets/images/about-round-icon3.png" alt="">
               </figure>
             </div>
-            <h4>Immediate Action & Response</h4>
-            <p class="security-services-p">Our expert team is trained to handle emergencies such as theft, vandalism, and public disturbances with speed and professionalism. We act decisively to mitigate risks.</p>
-            <a href="services.html" class="text-decoration-none ">Learn More <span class="forword-arrow"><i
-                  class="fa fa-angle-right"></i></span></a>
+            <h4>Always On Duty – 24/7 Security</h4>
+            <p class="security-services-p">Security threats don't take breaks, and neither do we. Our dedicated security personnel provide round-the-clock protection, ensuring your premises remain safe at all times. We are always ready to respond swiftly in emergencies.</p>
+            <a href="services.html" class="text-decoration-none">Learn More <span class="forword-arrow"><i class="fa fa-angle-right"></i></span></a>
+          </div>
+        </div>
+      </div>
+      <div class="row mt-4">
+        <div class="col-lg-6 col-md-6 col-sm-12">
+          <div class="about-us-content" data-aos="fade-up">
+            <div class="icons-rounded-box">
+              <figure class="mb-0"><img src="assets/images/about-round-icon1.png" alt="">
+              </figure>
+            </div>
+            <h4>Professional & Approachable Security</h4>
+            <p class="security-services-p">We balance a strong security presence with exceptional customer service. Our officers ensure safety while maintaining a welcoming atmosphere for employees, guests, and customers. Our guest-oriented approach comes with a commanding presence.</p>
+            <a href="services.html" class="text-decoration-none">Learn More <span class="forword-arrow"><i class="fa fa-angle-right"></i></span></a>
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-12">
+          <div class="about-us-content" data-aos="fade-up">
+            <div class="icons-rounded-box">
+              <figure class="mb-0 icon-color"><img src="assets/images/about-round-icon3.png" alt="">
+              </figure>
+            </div>
+            <h4>Immediate Action, Minimal Risk</h4>
+            <p class="security-services-p">Our expert team is trained to handle emergencies such as theft, vandalism, and public disturbances with speed and professionalism. We act decisively to mitigate risks and protect your business with our rapid response and emergency handling.</p>
+            <a href="services.html" class="text-decoration-none">Learn More <span class="forword-arrow"><i class="fa fa-angle-right"></i></span></a>
           </div>
         </div>
       </div>
     </div>
   </section>
 
+  <!-- SECURITY-FEATURES-SECTION -->
+  <section class="security-features-section py-5 bg-dark text-white">
+    <div class="container">
+      <div class="row text-center">
+        <div class="col-lg-4 col-md-4 col-sm-12 mb-4">
+          <div class="feature-icon mb-3">
+            <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="#ffc107" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+            </svg>
+          </div>
+          <h4>Fully Licensed by the SIA</h4>
+          <p class="px-3">Our guards are certified by the Security Industry Authority, guaranteeing compliance and expertise.</p>
+        </div>
+
+        <div class="col-lg-4 col-md-4 col-sm-12 mb-4">
+          <div class="feature-icon mb-3">
+            <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="#ffc107" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="10"></circle>
+              <polyline points="12 6 12 12 16 14"></polyline>
+            </svg>
+          </div>
+          <h4>Highly Trained & Professional</h4>
+          <p class="px-3">Our team is trained to the highest standards, offering reliable and effective security.</p>
+        </div>
+
+        <div class="col-lg-4 col-md-4 col-sm-12 mb-4">
+          <div class="feature-icon mb-3">
+            <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="#ffc107" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+            </svg>
+          </div>
+          <h4>Approachable Yet Tough</h4>
+          <p class="px-3">Friendly customer service with the ability to act decisively when needed.</p>
+        </div>
+      </div>
+    </div>
+  </section>
   <!-- CORE-VALUES-SECTION -->
   <section class="core-values-section py-5">
     <div class="container">
