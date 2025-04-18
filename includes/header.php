@@ -1,5 +1,5 @@
-<div class="home-header-section">
-  <header class="header">
+<div class="home-header-section fixed-top">
+  <header class="header pb-3">
     <div class="main-header">
       <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light p-0">
@@ -12,7 +12,7 @@
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav">
+            <ul class="navbar-nav ml-auto">
               <li class="nav-item active">
                 <a class="nav-link text-decoration-none navbar-text-color home-margin-top" href="index.php">Home<span class="sr-only">(current)</span></a>
               </li>
@@ -48,7 +48,7 @@
     </div>
   </header>
 </div>
-
+<div class="my-3">&nbsp;</div>
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
