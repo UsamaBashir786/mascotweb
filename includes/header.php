@@ -22,6 +22,9 @@
               <li class="nav-item">
                 <a class="nav-link text-decoration-none navbar-text-color" href="services.php">Services</a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link text-decoration-none navbar-text-color" href="consultant.php">Consultant</a>
+              </li>
               <!-- <li class="nav-item dropdown redlight-dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
                 <div class="dropdown-menu dropdown-content-redlight">
